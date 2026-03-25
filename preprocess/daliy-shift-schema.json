@@ -1,0 +1,54 @@
+create table if not exists daily_shift (
+
+    id bigint primary key auto_increment,
+    
+    is_primary boolean not null,
+    date_of_shift date not null,
+    created_at timestamptz not null default now(),
+
+    department text not null,
+    workcenter text not null,
+    part_name text not null,
+    operation text not null,
+
+    operators text,
+    note text,
+
+    planned_production_hrs numeric(10,4) not null,
+    actual_uptime_hrs numeric(10,4) not null,
+    downtime_hrs numeric(10,4) not null,
+
+    parts_produced int not null,
+    parts_scrapped int not null,
+
+    scrap_rate numeric(10,4) not null check (scrap_rate >= 0 and scrap_rate <= 1),
+    efficiency numeric(10,4) not null check (efficiency >= 0 and efficiency <= 1),
+    utilization numeric(10,4) not null check (utilization >= 0 and utilization <= 1),
+    oee numeric(10,4) not null check (oee >= 0 and oee <= 1),
+
+    earned_machine_hrs numeric(10,4) not null,
+    earned_labor_hrs numeric(10,4) not null,
+    actual_labor_hrs numeric(10,4) not null,
+    labor_efficiency numeric(10,4) not null check (labor_efficiency >= 0 and labor_efficiency <= 1),
+    labor_rate numeric(10,4) not null,
+    workcenter_rate numeric(10,4) not null,
+
+    child_part_count int,
+    accounting_job int,
+
+    original_good_pieces int not null,
+    department_no int not null,
+
+    manager_first_name text not null,
+    manager_middle_name text,
+    manager_last_name text not null,
+
+    workcenter_key int not null,
+    part_key int not null,
+    part_no int not null,
+    part_revision int not null,
+    operation_no int not null,
+    part_operation_key int not null,
+
+    crew_size int not null
+)

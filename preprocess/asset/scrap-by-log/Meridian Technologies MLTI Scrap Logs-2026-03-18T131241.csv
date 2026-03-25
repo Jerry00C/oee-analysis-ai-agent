@@ -1,0 +1,894 @@
+﻿"Report Date","Time Scrapped","Part No","Part Type","Material","Serial No","Operation","Quantity","Weight","Scrap Reason","Workcenter","Location","Cavity Code","Coordinate","Unit Cost","Extended Cost","Note"
+"3/9/2026","12:23 AM","9-050-010-485","MAG - BRACKETS",,"MLT7997297","Cell Assembly FG","1","3.33","M04-Non-Cleanup","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/9/2026","12:37 AM","9-176-022-424W","TRANSFER CASES",,"MLT7997285","Die Cast Part Shot","2","15.83","D01-Start-up Scrap","DCM B7 112","Transit Makino WIP",,,"$36.70","$73.41","FO APPROVED"
+"3/9/2026","12:51 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998579","Die Cast Part Shot","2","15.05","D06-Trim Damage","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$62.58","CAV 7"
+"3/9/2026","12:51 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998579","Die Cast Part Shot","2","15.05","D01-Start-up Scrap","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$62.58","CAV 7"
+"3/9/2026","1:04 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998246","Die Cast Part Shot","3","19.56","D16-Biscuit Size","DCM A7 116","WIP Makino 5-6",,,"$22.14","$66.43","Cav 9"
+"3/9/2026","1:04 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998247","Die Cast Part Shot","3","19.56","D16-Biscuit Size","DCM A7 116","WIP Makino 3-4",,,"$22.14","$66.43","Cav 10"
+"3/9/2026","1:04 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998246","Die Cast Part Shot","1","6.52","D19-Broken Biscuit","DCM A7 116","WIP Makino 5-6",,,"$22.14","$22.14","Cav 9"
+"3/9/2026","1:04 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998247","Die Cast Part Shot","1","6.52","D19-Broken Biscuit","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 10"
+"3/9/2026","1:11 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998588","Die Cast Part Shot","5","52.38","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$185.03","cav 10"
+"3/9/2026","1:19 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998594","Die Cast Part Shot","9","84.17","D04-Crack","DCM W3 122","DCM W3 122",,,"$42.04","$378.38",
+"3/9/2026","1:24 AM","9-176-022-424W","TRANSFER CASES",,"MLT7996176","Die Cast Part Shot","1","7.92","O10 - Die Cast Test Part","CNC Makino26B 215","CNC Makino26B 215","2",,"$36.70","$36.70","Mar 5 - On hold until F/O is approved
+Mar 6 - FO APPROVED"
+"3/9/2026","1:38 AM","9-176-022-424W","TRANSFER CASES",,"MLT7998597","Die Cast Part Shot","1","7.92","D19-Broken Biscuit","DCM B7 112","Transit Makino WIP",,,"$36.70","$36.70","FO APPROVED"
+"3/9/2026","1:38 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998588","Die Cast Part Shot","2","20.95","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$74.01","cav 10"
+"3/9/2026","1:48 AM","9-072-010-497","MAG - BRACKETS",,"MLT7997014","Die Cast Part Shot","12","18.14","D01-Start-up Scrap","DCM B3 112","SL-U625 Display Brkt",,,"$7.07","$84.79","ABCD"
+"3/9/2026","1:48 AM","9-072-010-497","MAG - BRACKETS",,"MLT7997014","Die Cast Part Shot","4","6.05","D01-Start-up Scrap","DCM B3 112","SL-U625 Display Brkt",,,"$7.07","$28.26","ABCD"
+"3/9/2026","1:56 AM","8-073-022-342","TRANSFER CASES",,"MLT7998608","Leak Test FG","6","37.02","M03-Handling Damage","Leaktest-Cover P552","Leaktest-Cover P552",,,"$30.37","$182.22",
+"3/9/2026","1:56 AM","8-073-022-342","TRANSFER CASES",,"MLT7998609","Leak Test FG","2","12.34","M01-Porosity","Leaktest-Cover P552","Leaktest-Cover P552",,,"$30.37","$60.74",
+"3/9/2026","2:03 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7997399","Die Cast Part Shot (FG)","4","43.96","D01-Start-up Scrap","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$192.17",
+"3/9/2026","2:09 AM","9-176-022-424","TRANSFER CASES",,"MLT7998577","Leak Test FG","3","23.82","M01-Porosity","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$149.98",
+"3/9/2026","2:09 AM","9-176-022-424","TRANSFER CASES",,"MLT7998577","Leak Test FG","3","23.82","M04-Non-Cleanup","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$149.98",
+"3/9/2026","2:13 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998621","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/9/2026","2:22 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998621","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/9/2026","2:30 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7998630","Die Cast Part Shot","2","27.02","D01-Start-up Scrap","DCM E2 120","KIRA 03",,,"$54.91","$109.82",
+"3/9/2026","2:30 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7998630","Die Cast Part Shot","1","13.51","D16-Biscuit Size","DCM E2 120","KIRA 03",,,"$54.91","$54.91",
+"3/9/2026","2:59 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998636","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/9/2026","3:00 AM","9-073-022-463","TRANSFER CASES",,"MLT7998635","Leak Test FG","6","39.12","O10 - Die Cast Test Part","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$196.12",
+"3/9/2026","3:00 AM","9-073-022-463","TRANSFER CASES",,"MLT7998635","Leak Test FG","4","26.08","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$130.75",
+"3/9/2026","3:00 AM","9-176-022-424","TRANSFER CASES",,"MLT7998652","Leak Test FG","8","63.52","M04-Non-Cleanup","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$399.93",
+"3/9/2026","3:00 AM","9-073-022-463","TRANSFER CASES",,"MLT7998635","Leak Test FG","2","13.04","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$65.37",
+"3/9/2026","3:00 AM","9-176-022-424","TRANSFER CASES",,"MLT7998652","Leak Test FG","1","7.94","D15-Sinks","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/9/2026","3:01 AM","9-073-022-463","TRANSFER CASES",,"MLT7998635","Leak Test FG","1","6.52","D02-Incomplete Fill/Cold Shut/Cold Flow","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","3:01 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998653","Die Cast Part Shot","3","22.58","D20-Broken Core","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$93.88","CAV 7"
+"3/9/2026","3:02 AM","9-072-010-497","MAG - BRACKETS",,"MLT7997014","Die Cast Part Shot","12","18.14","D01-Start-up Scrap","DCM B3 112","SL-U625 Display Brkt",,,"$7.07","$84.79","ABCD"
+"3/9/2026","3:10 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998655","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/9/2026","3:24 AM","9-073-022-461M","TRANSFER CASES",,"MLT7998726","Machining Pierce Part (Final)","2","21.20","M06-Machine Alarm","CNC Makino08 214","CNC Makino08 214",,,"$41.10","$82.19",
+"3/9/2026","3:33 AM","9-073-022-461W","TRANSFER CASES",,"MLT7997833","Die Cast Part Shot","4","41.90","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$37.01","$148.02","8"
+"3/9/2026","3:33 AM","9-073-022-461W","TRANSFER CASES",,"MLT7997833","Die Cast Part Shot","2","20.95","D16-Biscuit Size","DCM A1 116","WIP makino 11-13",,,"$37.01","$74.01","8"
+"3/9/2026","3:49 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998735","Die Cast Part Shot","5","46.76","D32-Robot Mishandle","DCM W3 122","DCM W3 122",,,"$42.04","$210.21",
+"3/9/2026","3:50 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998736","Die Cast Part Shot","1","9.35","D19-Broken Biscuit","DCM W3 122","DCM W3 122",,,"$42.04","$42.04",
+"3/9/2026","3:50 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998737","Die Cast Part Shot","7","65.46","D04-Crack","DCM W3 122","DCM W3 122",,,"$42.04","$294.29",
+"3/9/2026","3:54 AM","9-072-010-497","MAG - BRACKETS",,"MLT7998742","Die Cast Part Shot","4","6.05","D06-Trim Damage","DCM B3 112","SL-U625 Display Brkt",,,"$7.07","$28.26","ABCD"
+"3/9/2026","3:57 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998653","Die Cast Part Shot","2","15.05","D16-Biscuit Size","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$62.58","CAV 7 - Broken V3 core - Sorted"
+"3/9/2026","4:03 AM","9-176-022-424","TRANSFER CASES",,"MLT7998652","Leak Test FG","11","87.34","M04-Non-Cleanup","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$549.91",
+"3/9/2026","4:03 AM","9-176-022-424","TRANSFER CASES",,"MLT7998652","Leak Test FG","1","7.94","D25-Leaker","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/9/2026","4:17 AM","9-073-022-492W","TRANSFER CASES",,"MLT7981444","Die Cast Part Shot","1","7.64","D35-Barcode Label","CNC Makino06 214","WIP Makino 5-6",,,"$32.86","$32.86",
+"3/9/2026","4:23 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998827","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/9/2026","4:38 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7998835","Die Cast Part Shot","1","13.51","D06-Trim Damage","DCM E2 120","KIRA 03",,,"$54.91","$54.91",
+"3/9/2026","4:50 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998843","Die Cast Part Shot","1","10.48","D19-Broken Biscuit","DCM A1 116","WIP Makino 14-15",,,"$37.01","$37.01","8"
+"3/9/2026","4:59 AM","9-050-010-485W","MAG - BRACKETS",,"MLT7998845","Die Cast Part Shot","2","6.65","D04-Crack","DCM W1 121","AV T1XX BRKT 248",,,"$18.36","$36.71",
+"3/9/2026","5:00 AM","9-073-022-463","TRANSFER CASES",,"MLT7998839","Leak Test FG","10","65.20","D25-Leaker","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$326.86",
+"3/9/2026","5:00 AM","9-073-022-463","TRANSFER CASES",,"MLT7998839","Leak Test FG","1","6.52","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","5:03 AM","9-050-010-485","MAG - BRACKETS",,"MLT7998840","Cell Assembly FG","1","3.33","M02-Cracked at Machining","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/9/2026","5:14 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998865","Die Cast Part Shot","4","37.41","D06-Trim Damage","DCM W3 122","DCM W3 122",,,"$42.04","$168.17",
+"3/9/2026","5:18 AM","9-073-022-461M","TRANSFER CASES",,"MLT7998868","Machining Pierce Part (Final)","2","21.20","M06-Machine Alarm","CNC Makino13 214","CNC Makino13 214",,,"$41.10","$82.19",
+"3/9/2026","5:19 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998869","Die Cast Part Shot","1","10.48","D16-Biscuit Size","DCM A1 116","WIP makino 11-13",,,"$37.01","$37.01","8"
+"3/9/2026","5:33 AM","9-072-022-422","TRANSFER CASES",,"MLT7998874","Leak Test FG","10","35.40","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$259.56",
+"3/9/2026","5:33 AM","9-072-022-422","TRANSFER CASES",,"MLT7998874","Leak Test FG","1","3.54","D35-Barcode Label","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","5:33 AM","9-072-022-422","TRANSFER CASES",,"MLT7998874","Leak Test FG","3","10.62","M01-Porosity","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$77.87",
+"3/9/2026","5:33 AM","9-072-022-422","TRANSFER CASES",,"MLT7998874","Leak Test FG","2","7.08","M03-Handling Damage","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/9/2026","5:33 AM","9-072-022-422","TRANSFER CASES",,"MLT7998874","Leak Test FG","1","3.54","D15-Sinks","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","5:34 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998876","Die Cast Part Shot (FG)","2","21.98","D04-Crack","DCM E1 120","KIRA 04",,,"$48.04","$96.09",
+"3/9/2026","5:47 AM","9-073-022-461","TRANSFER CASES",,"MLT7998871","Leak Test FG","3","31.80","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$132.51",
+"3/9/2026","5:47 AM","9-073-022-461","TRANSFER CASES",,"MLT7998871","Leak Test FG","1","10.60","O10 - Die Cast Test Part","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","5:53 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998880","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM A1 116","WIP Makino 14-15",,,"$37.01","$37.01","8"
+"3/9/2026","6:00 AM","9-072-022-422","TRANSFER CASES",,"MLT7998889","Machining Pierce Part (1)","12","43.08","M22-Targeting","CNC Makino21 215","CNC Makino21 215",,,"$22.03","$264.34",
+"3/9/2026","6:01 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998872","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/9/2026","6:01 AM","9-073-022-461W","TRANSFER CASES",,"MLT7998872","Die Cast Part Shot","2","20.95","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$74.01","cav 10"
+"3/9/2026","6:04 AM","9-176-022-424","TRANSFER CASES",,"MLT7998896","Leak Test FG","13","103.22","M04-Non-Cleanup","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$649.89",
+"3/9/2026","6:16 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998902","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 9"
+"3/9/2026","6:16 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998901","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 10"
+"3/9/2026","6:28 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998910","Die Cast Part Shot","2","18.70","D01-Start-up Scrap","DCM W3 122","DCM W3 122",,,"$42.04","$84.08",
+"3/9/2026","6:29 AM","9-072-022-422","TRANSFER CASES",,"MLT7998911","Machining Pierce Part (1)","4","14.36","M22-Targeting","CNC Makino21 215","CNC Makino21 215",,,"$22.03","$88.11",
+"3/9/2026","6:31 AM","9-176-022-424","TRANSFER CASES",,"MLT7998914","Leak Test FG","1","7.94","D25-Leaker","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/9/2026","6:32 AM","9-176-022-424","TRANSFER CASES",,"MLT7998915","Leak Test FG","1","7.94","M04-Non-Cleanup","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/9/2026","6:33 AM","9-072-022-421","TRANSFER CASES",,"MLT7998916","Cell Assembly FG","4","27.24","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$167.22",
+"3/9/2026","6:33 AM","9-072-022-421","TRANSFER CASES",,"MLT7998916","Cell Assembly FG","1","6.81","M01-Porosity","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/9/2026","6:33 AM","9-072-022-421","TRANSFER CASES",,"MLT7998916","Cell Assembly FG","1","6.81","D35-Barcode Label","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/9/2026","6:34 AM","9-072-022-421","TRANSFER CASES",,"MLT7998916","Cell Assembly FG","3","20.43","O10 - Die Cast Test Part","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$125.41",
+"3/9/2026","6:35 AM","9-072-022-422","TRANSFER CASES",,"MLT7998917","Leak Test FG","3","7.08","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$77.87",
+"3/9/2026","6:35 AM","9-072-022-422","TRANSFER CASES",,"MLT7998917","Leak Test FG","1","3.54","M03-Handling Damage","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","6:41 AM","9-073-022-463","TRANSFER CASES",,"MLT7998913","Leak Test FG","1","6.52","D25-Leaker","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","6:41 AM","9-176-022-423","TRANSFER CASES",,"MLT7998931","Machining Pierce Part (Final)","4","34.44","M12-Machining Sample","CNC Makino16 214","CNC Makino16 214",,,"$44.84","$179.37",
+"3/9/2026","6:43 AM","9-176-022-423","TRANSFER CASES",,"MLT7998934","Machining Pierce Part (Final)","2","17.22","M14-Broken Tool","CNC Makino16 214","CNC Makino16 214",,,"$44.84","$89.69",
+"3/9/2026","6:46 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998941","Die Cast Part Shot","1","9.35","D04-Crack","DCM W3 122","DCM W3 122",,,"$42.04","$42.04",
+"3/9/2026","6:47 AM","9-072-022-422","TRANSFER CASES",,"MLT7998917","Leak Test FG","1","3.54","M04-Non-Cleanup","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","6:47 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998902","Die Cast Part Shot","1","6.52","D41-Etched Barcode","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 9"
+"3/9/2026","6:49 AM","9-073-022-492","TRANSFER CASES",,"MLT7998873","Leak Test FG","2","15.20","D34-Porosity","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$99.64",
+"3/9/2026","6:49 AM","9-073-022-460","TRANSFER CASES",,"MLT7998887","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/9/2026","6:50 AM","9-073-022-460","TRANSFER CASES",,"MLT7998887","Leak Test FG","2","22.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/9/2026","6:53 AM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT7998949","Machining Pierce Part (Final)","2","0.54","D07-Die Lube/Black Part","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$7.44",
+"3/9/2026","6:53 AM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT7998950","Machining Pierce Part (Final)","72","19.26","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$267.99",
+"3/9/2026","6:59 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998876","Die Cast Part Shot (FG)","4","43.96","D28-Bent or Broken Punch","DCM E1 120","KIRA 04",,,"$48.04","$192.17","sort for bent punch TB2"
+"3/9/2026","6:59 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998876","Die Cast Part Shot (FG)","3","32.97","D06-Trim Damage","DCM E1 120","KIRA 04",,,"$48.04","$144.13","sort for bent punch TB2"
+"3/9/2026","6:59 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998876","Die Cast Part Shot (FG)","1","10.99","D04-Crack","DCM E1 120","KIRA 04",,,"$48.04","$48.04","sort for bent punch TB2"
+"3/9/2026","7:18 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7998963","Die Cast Part Shot","1","9.35","D04-Crack","DCM W3 122","DCM W3 122",,,"$42.04","$42.04",
+"3/9/2026","7:46 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7998974","Die Cast Part Shot","1","13.51","D06-Trim Damage","DCM E2 120","KIRA 03",,,"$54.91","$54.91",
+"3/9/2026","7:46 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998975","Die Cast Part Shot","8","60.21","D09-Missing Feature(s)","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$250.34","CAV 7"
+"3/9/2026","7:48 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998975","Die Cast Part Shot","0","37.63","D32-Robot Mishandle","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$0.00","CAV 7"
+"3/9/2026","8:00 AM","9-072-022-422","TRANSFER CASES",,"MLT7998997","Leak Test FG","1","3.54","D15-Sinks","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","8:00 AM","9-072-022-422","TRANSFER CASES",,"MLT7998997","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","8:19 AM","9-073-022-461W","TRANSFER CASES",,"MLT7997521","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 8-9",,,"$37.01","$37.01","10 TEST PART"
+"3/9/2026","8:33 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999038","Die Cast Part Shot","1","13.51","D01-Start-up Scrap","DCM E2 120","KIRA 03",,,"$54.91","$54.91",
+"3/9/2026","8:33 AM","9-073-022-463W","TRANSFER CASES",,"MLT7998988","Die Cast Part Shot","2","13.04","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$44.29","Cav 10"
+"3/9/2026","8:33 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999038","Die Cast Part Shot","1","13.51","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$54.91",
+"3/9/2026","8:47 AM","9-073-022-463M","TRANSFER CASES",,"MLT7999047","Machining Pierce Part (1)","2","13.04","M06-Machine Alarm","CNC Makino04 214","CNC Makino04 214",,,"$26.77","$53.54",
+"3/9/2026","8:49 AM","9-072-022-422","TRANSFER CASES",,"MLT7999049","Leak Test FG","1","3.54","D15-Sinks","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","8:51 AM","9-072-022-421","TRANSFER CASES",,"MLT7999050","Machining Pierce Part (1)","8","55.53","M22-Targeting","CNC Makino18 215","CD6 Parts Conveyor",,,"$36.52","$292.17",
+"3/9/2026","9:20 AM","9-072-022-422","TRANSFER CASES",,"MLT7999049","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","9:21 AM","9-073-022-463W","TRANSFER CASES",,"MLT7999077","Die Cast Part Shot","2","13.04","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$44.29","Cav 9"
+"3/9/2026","9:48 AM","9-032-015-337W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7991155","Die Cast Part Shot","1","11.00","D04-Crack","MA WK/WD 203","MA WK/WD 203",,,"$41.36","$41.36","Cav.K"
+"3/9/2026","9:53 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998975","Die Cast Part Shot","2","15.05","D10-Soldering","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$62.58","CAV 7"
+"3/9/2026","9:53 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998975","Die Cast Part Shot","3","22.58","D16-Biscuit Size","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$93.88","CAV 7"
+"3/9/2026","9:54 AM","9-176-022-423","TRANSFER CASES",,"MLT7997321","Leak Test FG","2","17.22","M04-Non-Cleanup","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$94.37",
+"3/9/2026","9:55 AM","9-176-022-423","TRANSFER CASES",,"MLT7997321","Leak Test FG","1","8.61","D35-Barcode Label","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$47.19",
+"3/9/2026","9:55 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7997210","Die Cast Part Shot","2","31.16","D04-Crack","DCM W4 122","V Honda Pilot IP 347","g",,"$55.35","$110.70","G"
+"3/9/2026","9:55 AM","9-083-015-347","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999116","Vision System Inspection (FG)","1","16.54","M14-Broken Tool","V Honda Pilot IP 347","V Honda Pilot IP 347",,,"$95.45","$95.45",
+"3/9/2026","9:57 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999118","Die Cast Part Shot","6","52.74","D06-Trim Damage","DCM A8 118","High Street Yard",,,"$33.52","$201.12","Cav.A"
+"3/9/2026","9:57 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","6","2.46","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$2.58","$15.49","Cav.A"
+"3/9/2026","9:58 AM","9-085-010-435","MAG - BRACKETS",,"MLT7998599","Die Cast Part Shot","6","4.02","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$1.54","$9.21","Cav.A"
+"3/9/2026","10:04 AM","9-072-010-497","MAG - BRACKETS",,"MLT7994440","Die Cast Part Shot","4","6.05","D04-Crack","SL-U625 Display Brkt","SL-U625 Display Brkt",,,"$7.07","$28.26","process crack found"
+"3/9/2026","10:21 AM","9-073-022-463W","TRANSFER CASES",,"MLT7999151","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 1-2",,,"$22.14","$22.14","Cav 9"
+"3/9/2026","10:21 AM","9-073-022-463W","TRANSFER CASES",,"MLT7999152","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 1-2",,,"$22.14","$22.14","Cav 10"
+"3/9/2026","10:22 AM","9-073-022-463W","TRANSFER CASES",,"MLT7999152","Die Cast Part Shot","1","6.52","D15-Sinks","DCM A7 116","WIP Makino 1-2",,,"$22.14","$22.14","Cav 10"
+"3/9/2026","10:31 AM","9-072-022-421","TRANSFER CASES",,"MLT7999158","Cell Assembly FG","1","6.81","O14-Incomplete Operation","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80","ball press fault"
+"3/9/2026","10:32 AM","9-072-022-421","TRANSFER CASES",,"MLT7999158","Cell Assembly FG","1","6.81","M03-Handling Damage","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80","robot crash"
+"3/9/2026","10:48 AM","9-176-022-423","TRANSFER CASES",,"MLT7997321","Leak Test FG","1","8.61","D41-Etched Barcode","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$47.19",
+"3/9/2026","10:49 AM","9-176-022-423","TRANSFER CASES",,"MLT7997321","Leak Test FG","1","8.61","M03-Handling Damage","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$47.19",
+"3/9/2026","10:55 AM","9-072-022-422W","TRANSFER CASES",,"MLT7999187","Die Cast Part Shot","4","15.90","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$67.57","7"
+"3/9/2026","10:55 AM","9-072-022-422W","TRANSFER CASES",,"MLT7999189","Die Cast Part Shot","4","15.90","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$67.57","8"
+"3/9/2026","10:56 AM","9-072-022-422W","TRANSFER CASES",,"MLT7999187","Die Cast Part Shot","1","3.97","D19-Broken Biscuit","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","7"
+"3/9/2026","10:56 AM","9-072-022-422W","TRANSFER CASES",,"MLT7999189","Die Cast Part Shot","1","3.97","D19-Broken Biscuit","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/9/2026","10:56 AM","9-072-022-422W","TRANSFER CASES",,"MLT7999189","Die Cast Part Shot","1","3.97","D15-Sinks","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/9/2026","11:00 AM","9-072-022-421W","TRANSFER CASES",,"MLT7998975","Die Cast Part Shot","2","15.05","D06-Trim Damage","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$62.58","CAV 7"
+"3/9/2026","11:09 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7997292","Die Cast Part Shot","4","44.94","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$187.88","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","11:09 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7997292","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","11:18 AM","9-176-022-424","TRANSFER CASES",,"MLT7999214","Machining Pierce Part (Final)","1","7.92","M04-Non-Cleanup","CNC Makino26B 215","CNC Makino26B 215",,,"$48.35","$48.35",
+"3/9/2026","11:20 AM","9-073-022-461M","TRANSFER CASES",,"MLT7999203","Machining Pierce Part (Final)","1","10.60","D35-Barcode Label","CNC Makino08 214","Plant B Makino Conveyor",,,"$41.10","$41.10",
+"3/9/2026","11:23 AM","9-176-022-424","TRANSFER CASES",,"MLT7999200","Leak Test FG","1","7.94","M04-Non-Cleanup","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/9/2026","11:37 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999038","Die Cast Part Shot","4","54.04","D20-Broken Core","DCM E2 120","KIRA 03",,,"$54.91","$219.63","needs new F/O for machining"
+"3/9/2026","11:52 AM","9-072-022-422","TRANSFER CASES",,"MLT7999246","Leak Test FG","2","7.08","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/9/2026","11:53 AM","9-072-022-422","TRANSFER CASES",,"MLT7999246","Leak Test FG","1","3.54","D41-Etched Barcode","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","11:56 AM","9-176-022-423","TRANSFER CASES",,"MLT7999253","Leak Test FG","1","8.61","D25-Leaker","LT-CD6 Transit Case 215","LT-CD6 Transit Case 215",,,"$47.19","$47.19",
+"3/9/2026","11:59 AM","9-072-022-421","TRANSFER CASES",,"MLT7999260","Cell Assembly FG","2","13.62","O14-Incomplete Operation","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$83.61","ball press failures"
+"3/9/2026","11:59 AM","9-073-022-463W","TRANSFER CASES",,"MLT7999266","Die Cast Part Shot","1","6.52","D15-Sinks","DCM A7 116","DCM A7 116",,,"$22.14","$22.14","Cav 10"
+"3/9/2026","12:00 PM","9-176-022-424W","TRANSFER CASES",,"MLT7998597","Die Cast Part Shot","3","23.75","D01-Start-up Scrap","DCM B7 112","Transit Makino WIP",,,"$36.70","$110.11","FO APPROVED"
+"3/9/2026","12:02 PM","9-072-022-422","TRANSFER CASES",,"MLT7999263","Machining Pierce Part (1)","2","7.18","O14-Incomplete Operation","CNC Makino21 215","CD6 Parts Conveyor",,,"$22.03","$44.06",
+"3/9/2026","12:02 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999272","Machining Pierce Part (Final)","2","26.75","O14-Incomplete Operation","KIRA 08","KIRA 08",,,"$64.12","$128.25",
+"3/9/2026","12:03 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7990713","Die Cast Part Shot","1","13.38","D04-Crack","KIRA 08","KIRA 08",,,"$54.18","$54.18",
+"3/9/2026","12:08 PM","9-176-022-424","TRANSFER CASES",,"MLT7999292","Machining Pierce Part (Final)","1","7.92","M22-Targeting","CNC Makino26B 215","CNC Makino26B 215",,,"$48.35","$48.35",
+"3/9/2026","12:09 PM","9-073-022-460M","TRANSFER CASES",,"MLT7999293","Machining Pierce Part (Final)","4","44.00","M01-Porosity","CNC Makino11 214","CNC Makino11 214",,,"$42.94","$171.78",
+"3/9/2026","12:27 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999320","Die Cast Part Shot","1","10.48","D04-Crack","DCM W2 121","Zone 2",,,"$37.01","$37.01","cav 10"
+"3/9/2026","12:33 PM","9-072-010-497","MAG - BRACKETS",,"MLT7994307","Die Cast Part Shot","2","3.02","D04-Crack","SL-U625 Display Brkt","SL-U625 Display Brkt",,,"$7.07","$14.13","process crack found"
+"3/9/2026","12:35 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999320","Die Cast Part Shot","2","20.95","D04-Crack","DCM W2 121","Zone 2",,,"$37.01","$74.01","cav 10"
+"3/9/2026","12:40 PM","9-072-022-421W","TRANSFER CASES",,"MLT7990118","Die Cast Part Shot","58","436.51","D04-Crack","DCM A3 116","Plant A Storage",,,"$31.29","$1,814.93","Bin sorted for cracks and scrapped"
+"3/9/2026","12:44 PM","9-073-022-460","TRANSFER CASES",,"MLT7999168","Leak Test FG","13","143.00","M01-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$575.44",
+"3/9/2026","12:45 PM","9-073-022-460","TRANSFER CASES",,"MLT7999168","Leak Test FG","8","88.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$354.11",
+"3/9/2026","12:46 PM","9-073-022-492","TRANSFER CASES",,"MLT7999318","Leak Test FG","8","60.80","M01-Porosity","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$398.57",
+"3/9/2026","12:46 PM","9-073-022-492","TRANSFER CASES",,"MLT7999318","Leak Test FG","2","15.20","D25-Leaker","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$99.64",
+"3/9/2026","12:47 PM","9-073-022-492","TRANSFER CASES",,"MLT7999318","Leak Test FG","1","7.60","M03-Handling Damage","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","12:47 PM","9-073-022-461","TRANSFER CASES",,"MLT7999319","Leak Test FG","4","42.40","D25-Leaker","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$176.68",
+"3/9/2026","12:47 PM","9-073-022-461","TRANSFER CASES",,"MLT7999319","Leak Test FG","2","21.20","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$88.34",
+"3/9/2026","12:48 PM","9-073-022-461","TRANSFER CASES",,"MLT7999319","Leak Test FG","1","10.60","D35-Barcode Label","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","12:48 PM","9-073-022-461","TRANSFER CASES",,"MLT7999319","Leak Test FG","2","21.20","O10 - Die Cast Test Part","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$88.34",
+"3/9/2026","12:50 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999320","Die Cast Part Shot","1","10.48","D04-Crack","DCM W2 121","Zone 2",,,"$37.01","$37.01","cav 10"
+"3/9/2026","12:58 PM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","2","0.82","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$2.58","$5.16","Cav.A"
+"3/9/2026","12:58 PM","9-085-010-435","MAG - BRACKETS",,"MLT7998599","Die Cast Part Shot","2","1.34","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$1.54","$3.07","Cav.A"
+"3/9/2026","12:58 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999383","Die Cast Part Shot","8","70.32","D20-Broken Core","DCM A8 118","High Street Yard",,,"$33.52","$268.16","Cav.A"
+"3/9/2026","1:00 PM","9-072-022-422","TRANSFER CASES",,"MLT7999246","Leak Test FG","1","3.54","M01-Porosity","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","1:00 PM","9-072-022-422","TRANSFER CASES",,"MLT7999246","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","1:01 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999390","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","1:01 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999390","Die Cast Part Shot","1","11.24","D02-Incomplete Fill/Cold Shut/Cold Flow","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","1:02 PM","9-073-022-460M","TRANSFER CASES",,"MLT7999394","Machining Pierce Part (Final)","5","55.00","M01-Porosity","CNC Makino11 214","CNC Makino11 214",,,"$42.94","$214.72",
+"3/9/2026","1:08 PM","9-073-022-463W","TRANSFER CASES",,"MLT7999400","Die Cast Part Shot","3","19.56","D20-Broken Core","DCM A7 116","WIP Makino 3-4",,,"$22.14","$66.43","Cav 10"
+"3/9/2026","1:23 PM","9-176-022-424W","TRANSFER CASES",,"MLT7999407","Die Cast Part Shot","1","7.92","D19-Broken Biscuit","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/9/2026","1:32 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999418","Die Cast Part Shot","1","10.48","D41-Etched Barcode","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/9/2026","1:48 PM","9-073-022-460W","TRANSFER CASES",,"MLT7999438","Die Cast Part Shot","3","32.48","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$115.17",
+"3/9/2026","1:52 PM","9-073-022-463","TRANSFER CASES",,"MLT7999423","Leak Test FG","10","65.20","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$326.86",
+"3/9/2026","1:53 PM","9-073-022-463","TRANSFER CASES",,"MLT7999423","Leak Test FG","3","19.56","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$98.06",
+"3/9/2026","1:53 PM","9-073-022-463","TRANSFER CASES",,"MLT7999423","Leak Test FG","2","13.04","O10 - Die Cast Test Part","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$65.37",
+"3/9/2026","1:56 PM","9-072-022-422","TRANSFER CASES",,"MLT7999404","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","1:56 PM","9-072-022-422","TRANSFER CASES",,"MLT7999404","Leak Test FG","2","7.08","O10 - Die Cast Test Part","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/9/2026","1:56 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999449","Die Cast Part Shot","2","22.47","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$93.94","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","1:59 PM","9-072-022-422W","TRANSFER CASES",,"MLT7999378","Die Cast Part Shot","2","7.95","D19-Broken Biscuit","DCM A5 116","Plant C Storage",,,"$16.89","$33.78","7"
+"3/9/2026","1:59 PM","9-072-022-422W","TRANSFER CASES",,"MLT7999379","Die Cast Part Shot","2","7.95","D19-Broken Biscuit","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$33.78","8"
+"3/9/2026","2:01 PM","9-176-022-424","TRANSFER CASES",,"MLT7999200","Leak Test FG","1","7.94","D18-Breakout","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/9/2026","2:05 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999467","Machining Pierce Part (Final)","5","66.88","O14-Incomplete Operation","KIRA 08","KIRA 08",,,"$64.12","$320.62",
+"3/9/2026","2:05 PM","9-037-016-482M","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999468","Cell Assembly (1)","1","11.24","M06-Machine Alarm","MA WL LHD IP 252B","MA WL LHD IP 252B",,,"$63.70","$63.70",
+"3/9/2026","2:06 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7993221","Die Cast Part Shot","2","22.47","D02-Incomplete Fill/Cold Shut/Cold Flow","MA WL LHD IP 252B","WL Components","F",,"$46.97","$93.94","Cav F
+Mar 4 - Pending FO Approval
+Mar 6 - FO APPROVED"
+"3/9/2026","2:06 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7993221","Die Cast Part Shot","7","78.65","D04-Crack","MA WL LHD IP 252B","WL Components","F",,"$46.97","$328.79","Cav F
+Mar 4 - Pending FO Approval
+Mar 6 - FO APPROVED"
+"3/9/2026","2:10 PM","9-073-022-463","TRANSFER CASES",,"MLT7999423","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","2:10 PM","9-073-022-463","TRANSFER CASES",,"MLT7999423","Leak Test FG","1","6.52","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","2:12 PM","9-032-020-501","STEERING COLUMN COMPONENTS",,"MLT7996984","Machining Pierce Part (Final)","1","1.63","M13-Mis-Load","MA ATS 222","MA ATS 222",,,"$15.56","$15.56",
+"3/9/2026","2:21 PM","9-037-016-482","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999484","Vision System Inspection (FG)","4","44.94","D02-Incomplete Fill/Cold Shut/Cold Flow","AV WL LHD IP 252","AV WL LHD IP 252",,,"$73.49","$293.98",
+"3/9/2026","2:21 PM","9-037-016-482","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999485","Vision System Inspection (FG)","1","11.24","O14-Incomplete Operation","AV WL LHD IP 252","AV WL LHD IP 252",,,"$73.49","$73.49",
+"3/9/2026","2:26 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999038","Die Cast Part Shot","6","81.06","D01-Start-up Scrap","DCM E2 120","KIRA 03",,,"$54.91","$329.45","needs new F/O for machining"
+"3/9/2026","2:29 PM","9-034-010-426","MAG - BRACKETS",,"MLT7999496","Cell Assembly FG","14","2.03","O14-Incomplete Operation","MA JL Tunnel Brkt - 426","Dock-SH-C32",,,"$3.62","$50.62",
+"3/9/2026","2:30 PM","9-073-022-461","TRANSFER CASES",,"MLT7999492","Leak Test FG","1","10.60","D15-Sinks","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","2:30 PM","9-073-022-461","TRANSFER CASES",,"MLT7999492","Leak Test FG","1","10.60","D06-Trim Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","2:36 PM","9-034-010-426","MAG - BRACKETS",,"MLT7999496","Cell Assembly FG","1","0.15","O14-Incomplete Operation","MA JL Tunnel Brkt - 426","Dock-SH-C32",,,"$3.62","$3.62",
+"3/9/2026","2:36 PM","9-034-010-425","MAG - BRACKETS",,"MLT7999504","Cell Assembly FG","1","0.15","O14-Incomplete Operation","MA JL Tunnel Brkt - 425","Dock-SH-C32",,,"$3.65","$3.65",
+"3/9/2026","2:36 PM","9-034-010-425","MAG - BRACKETS",,"MLT7999504","Cell Assembly FG","4","0.60","M12-Machining Sample","MA JL Tunnel Brkt - 425","Dock-SH-C32",,,"$3.65","$14.59",
+"3/9/2026","2:37 PM","9-034-010-426","MAG - BRACKETS",,"MLT7999496","Cell Assembly FG","4","0.58","M12-Machining Sample","MA JL Tunnel Brkt - 426","Dock-SH-C32",,,"$3.62","$14.46",
+"3/9/2026","2:39 PM","9-073-022-461","TRANSFER CASES",,"MLT7999492","Leak Test FG","1","10.60","D04-Crack","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","2:40 PM","9-073-022-460","TRANSFER CASES",,"MLT7999428","Leak Test FG","2","22.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/9/2026","2:40 PM","9-073-022-460","TRANSFER CASES",,"MLT7999428","Leak Test FG","2","22.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/9/2026","2:41 PM","9-073-022-492","TRANSFER CASES",,"MLT7999506","Leak Test FG","1","7.60","M01-Porosity","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","2:43 PM","9-086-016-470","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999517","Cell Assembly (Final)","1","13.08","M18-Hole Size Out of Spec","Asm Honda 3BM IP","V Honda 3BM IP 470",,,"$98.70","$98.70",
+"3/9/2026","2:43 PM","9-086-016-470IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7985049","Die Cast Part Shot","1","12.01","D04-Crack","Asm Honda 3BM IP","Asm Honda 3BM IP",,,"$53.84","$53.84","released to be 100% gauged at assembly"
+"3/9/2026","2:44 PM","9-073-022-492","TRANSFER CASES",,"MLT7999520","Machining Pierce Part (1)","1","7.60","M01-Porosity","CNC Makino06 214","CNC Makino06 214",,,"$40.71","$40.71",
+"3/9/2026","2:45 PM","9-176-022-424","TRANSFER CASES",,"MLT7999522","Leak Test FG","1","7.94","D25-Leaker","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/9/2026","2:45 PM","9-176-022-424","TRANSFER CASES",,"MLT7999523","Leak Test FG","1","7.94","M18-Hole Size Out of Spec","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/9/2026","2:48 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7996369","Die Cast Part Shot","2","17.58","D04-Crack","MA Mazak 240","MA Mazak 240",,,"$33.52","$67.04","Cav.A"
+"3/9/2026","2:52 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT7999537","Machining Pierce Part (Final)","42","11.24","O08-Floor Gauge Rejection","M Lower Brkt 496","SL-Lower Rake Brkt",,,"$3.72","$156.33",
+"3/9/2026","2:52 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT7999537","Machining Pierce Part (Final)","5","1.34","M01-Porosity","M Lower Brkt 496","SL-Lower Rake Brkt",,,"$3.72","$18.61",
+"3/9/2026","2:54 PM","9-176-022-424W","TRANSFER CASES",,"MLT7999494","Die Cast Part Shot","2","15.83","D19-Broken Biscuit","DCM B7 112","Plant C Storage",,,"$36.70","$73.41","FO APPROVED"
+"3/9/2026","2:59 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999380","Die Cast Part Shot","3","31.43","D01-Start-up Scrap","DCM A2 116","WIP Makino 14-15",,,"$37.01","$111.02","8"
+"3/9/2026","2:59 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999380","Die Cast Part Shot","7","73.33","D04-Crack","DCM A2 116","WIP Makino 14-15",,,"$37.01","$259.04","8"
+"3/9/2026","3:01 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999554","Die Cast Part Shot","1","11.24","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","3:02 PM","9-073-022-460W","TRANSFER CASES",,"MLT7999555","Die Cast Part Shot","1","10.83","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$38.39","cav 3"
+"3/9/2026","3:03 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999554","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","3:28 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999567","Cell Assembly FG","4","17.98","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$94.07",
+"3/9/2026","3:35 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999570","Die Cast Part Shot","3","40.53","D06-Trim Damage","DCM E2 120","KIRA 03",,,"$54.91","$164.72","New F/O required for machining"
+"3/9/2026","3:40 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999573","Cell Assembly FG","6","26.97","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$141.11",
+"3/9/2026","3:41 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999577","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","3:42 PM","9-073-022-460W","TRANSFER CASES",,"MLT7999555","Die Cast Part Shot","1","10.83","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$38.39","cav 3"
+"3/9/2026","3:42 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999579","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","3:42 PM","9-050-010-485W","MAG - BRACKETS",,"MLT7999578","Die Cast Part Shot","3","9.98","D12-Bent/Warped","DCM W1 121","AV T1XX BRKT 248",,,"$18.36","$55.07",
+"3/9/2026","3:43 PM","9-073-022-460W","TRANSFER CASES",,"MLT7999555","Die Cast Part Shot","1","10.83","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$38.39","cav 3"
+"3/9/2026","3:45 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999584","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","3:48 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999589","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","3:49 PM","9-072-022-421W","TRANSFER CASES",,"MLT7999402","Die Cast Part Shot","4","30.10","D16-Biscuit Size","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$125.17","CAV 7 cleanpoint verification broken v1 flange core"
+"3/9/2026","3:49 PM","9-072-022-421W","TRANSFER CASES",,"MLT7999402","Die Cast Part Shot","5","37.63","D20-Broken Core","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$156.46","CAV 7 cleanpoint verification broken v1 flange core"
+"3/9/2026","3:50 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999571","Die Cast Part Shot","2","20.95","D16-Biscuit Size","DCM A2 116","WIP makino 11-13",,,"$37.01","$74.01","8"
+"3/9/2026","3:52 PM","9-072-022-422W","TRANSFER CASES",,"MLT7999585","Die Cast Part Shot","1","3.97","D15-Sinks","DCM A5 116","Plant C Storage",,,"$16.89","$16.89","7"
+"3/9/2026","3:52 PM","9-072-022-422W","TRANSFER CASES",,"MLT7999585","Die Cast Part Shot","1","3.97","D19-Broken Biscuit","DCM A5 116","Plant C Storage",,,"$16.89","$16.89","7"
+"3/9/2026","3:52 PM","9-072-022-422W","TRANSFER CASES",,"MLT7999586","Die Cast Part Shot","1","3.97","D19-Broken Biscuit","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/9/2026","3:52 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999594","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","3:52 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999592","Die Cast Part Shot","3","46.74","D01-Start-up Scrap","DCM W4 122","Cycle Retire",,,"$55.35","$166.05","G"
+"3/9/2026","3:53 PM","9-072-022-421","TRANSFER CASES",,"MLT7999596","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04","ATC arm fault"
+"3/9/2026","3:54 PM","9-034-010-426","MAG - BRACKETS",,"MLT7999496","Cell Assembly FG","4","0.58","M12-Machining Sample","MA JL Tunnel Brkt - 426","Dock-SH-C32",,,"$3.62","$14.46",
+"3/9/2026","3:54 PM","9-034-010-425","MAG - BRACKETS",,"MLT7999602","Cell Assembly FG","4","0.60","M12-Machining Sample","MA JL Tunnel Brkt - 425","MA JL Tunnel Brkt - 425",,,"$3.65","$14.59",
+"3/9/2026","3:54 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999603","Cell Assembly FG","1","4.50","M05-Overcut","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","3:59 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7996078","Machining Pierce Part (1)","6","66.97","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","JL IP Assy 242","A",,"$57.46","$344.74","GBS2"
+"3/9/2026","4:00 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999610","Cell Assembly FG","2","8.99","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$47.04",
+"3/9/2026","4:02 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999614","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","4:05 PM","9-072-022-422","TRANSFER CASES",,"MLT7999572","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","4:08 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999621","Machining Pierce Part (Final)","1","13.38","M06-Machine Alarm","KIRA 08","KIRA 08",,,"$64.12","$64.12",
+"3/9/2026","4:16 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999629","Cell Assembly FG","2","8.99","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$47.04",
+"3/9/2026","4:24 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999640","Cell Assembly FG","2","8.99","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$47.04",
+"3/9/2026","4:24 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999588","Die Cast Part Shot","2","22.47","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$93.94","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","4:25 PM","9-050-010-485","MAG - BRACKETS",,"MLT7999565","Cell Assembly FG","2","6.65","M14-Broken Tool","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$55.97",
+"3/9/2026","4:26 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999642","Cell Assembly FG","2","8.99","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$47.04",
+"3/9/2026","4:27 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999643","Cell Assembly FG","1","4.50","M04-Non-Cleanup","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/9/2026","4:32 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999597","Die Cast Part Shot","1","13.51","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$54.91","New F/O required for machining"
+"3/9/2026","4:46 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999592","Die Cast Part Shot","3","46.74","D04-Crack","DCM W4 122","Cycle Retire",,,"$55.35","$166.05","G"
+"3/9/2026","4:52 PM","9-072-022-421","TRANSFER CASES",,"MLT7999663","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04","ATC arm fault"
+"3/9/2026","4:54 PM","9-073-022-460","TRANSFER CASES",,"MLT7999612","Leak Test FG","2","22.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/9/2026","4:55 PM","9-073-022-460","TRANSFER CASES",,"MLT7999612","Leak Test FG","3","33.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/9/2026","4:57 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999673","Die Cast Part Shot","1","13.51","D06-Trim Damage","DCM E2 120","KIRA 03",,,"$54.91","$54.91",
+"3/9/2026","4:57 PM","9-073-022-460W","TRANSFER CASES",,"MLT7999674","Die Cast Part Shot","2","21.65","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$76.78","cav 3"
+"3/9/2026","5:14 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999689","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","5:35 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7995943","Machining Pierce Part (1)","4","44.65","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","JL IP Assy 242","A",,"$57.46","$229.83","GBS2"
+"3/9/2026","5:46 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999710","Cell Assembly FG","1","11.16","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","JL IP Assy 242",,,"$71.47","$71.47",
+"3/9/2026","5:50 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999720","Machining Pierce Part (Final)","2","26.75","M06-Machine Alarm","KIRA 08","KIRA 08",,,"$64.12","$128.25",
+"3/9/2026","5:56 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999731","Die Cast Part Shot","2","31.16","D04-Crack","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$110.70","G"
+"3/9/2026","5:56 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999689","Die Cast Part Shot","1","11.24","D06-Trim Damage","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","6:34 PM","9-050-010-485","MAG - BRACKETS",,"MLT7999711","Cell Assembly FG","4","13.30","M22-Targeting","AV T1XX BRKT 248","AV T1XX BRKT 248",,,"$27.99","$111.94",
+"3/9/2026","6:36 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999768","Vision System Inspection (FG)","3","41.94","D04-Crack","V Honda MDX IP 296","V Honda MDX IP 296",,,"$73.09","$219.26",
+"3/9/2026","6:38 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999763","Cell Assembly FG","1","11.16","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","Dock-SH-C32",,,"$71.47","$71.47",
+"3/9/2026","6:42 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999763","Cell Assembly FG","1","11.16","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","Dock-SH-C32",,,"$71.47","$71.47",
+"3/9/2026","6:44 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999763","Cell Assembly FG","1","11.16","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","Dock-SH-C32",,,"$71.47","$71.47",
+"3/9/2026","6:51 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7995699","Machining Pierce Part (1)","6","66.97","D02-Incomplete Fill/Cold Shut/Cold Flow","JL IP Assy 242","JL IP Assy 242","A",,"$57.46","$344.74","GBS2"
+"3/9/2026","6:53 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999784","Die Cast Part Shot","1","15.58","D04-Crack","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$55.35","G"
+"3/9/2026","6:54 PM","9-073-022-460","TRANSFER CASES",,"MLT7999723","Leak Test FG","1","11.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","6:54 PM","9-073-022-460","TRANSFER CASES",,"MLT7999723","Leak Test FG","1","11.00","O10 - Die Cast Test Part","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","6:55 PM","9-073-022-492","TRANSFER CASES",,"MLT7999762","Leak Test FG","1","7.60","D25-Leaker","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","6:55 PM","9-073-022-492","TRANSFER CASES",,"MLT7999762","Leak Test FG","1","7.60","D04-Crack","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","6:55 PM","9-073-022-463","TRANSFER CASES",,"MLT7999774","Leak Test FG","1","6.52","D34-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","6:57 PM","9-034-010-426W","MAG - BRACKETS",,"MLT7991720","Die Cast Part Shot","1","0.15","D06-Trim Damage","MA JL Tunnel Brkt - 426","MA JL Tunnel Brkt - 426",,,"$1.89","$1.89","RH"
+"3/9/2026","7:04 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999802","Die Cast Part Shot","1","10.48","D41-Etched Barcode","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/9/2026","7:32 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999829","Die Cast Part Shot (FG)","2","21.98","D01-Start-up Scrap","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$96.09",
+"3/9/2026","7:33 PM","9-083-015-347","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999831","Vision System Inspection (FG)","1","16.54","O14-Incomplete Operation","V Honda Pilot IP 347","V Honda Pilot IP 347",,,"$95.45","$95.45",
+"3/9/2026","7:47 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999844","Cell Assembly FG","1","10.99","D09-Missing Feature(s)","JL IP Assy 242","JL IP Assy 242",,,"$67.27","$67.27",
+"3/9/2026","7:47 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999847","Cell Assembly FG","1","10.99","D12-Bent/Warped","JL IP Assy 242","JL IP Assy 242",,,"$67.27","$67.27",
+"3/9/2026","8:13 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7749321","Die Cast Part Shot","24","324.24","O10 - Die Cast Test Part","DCM E2 120","Plt E Scrap Strg",,,"$54.91","$1,317.78","sample parts from September 2025, scrap as per QE"
+"3/9/2026","8:25 PM","9-176-022-424W","TRANSFER CASES",,"MLT7999896","Die Cast Part Shot","1","7.92","D01-Start-up Scrap","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/9/2026","8:26 PM","9-176-022-424W","TRANSFER CASES",,"MLT7999896","Die Cast Part Shot","1","7.92","D06-Trim Damage","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/9/2026","8:26 PM","9-176-022-424W","TRANSFER CASES",,"MLT7999896","Die Cast Part Shot","1","7.92","D41-Etched Barcode","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/9/2026","8:27 PM","9-073-022-461W","TRANSFER CASES",,"MLT7999897","Die Cast Part Shot","1","10.48","D41-Etched Barcode","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/9/2026","8:53 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999928","Die Cast Part Shot","2","31.16","D04-Crack","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$110.70","G"
+"3/9/2026","8:53 PM","9-072-022-421","TRANSFER CASES",,"MLT7999850","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04","ATC arm fault"
+"3/9/2026","8:56 PM","9-073-022-460","TRANSFER CASES",,"MLT7999860","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/9/2026","8:56 PM","9-073-022-460","TRANSFER CASES",,"MLT7999860","Leak Test FG","1","11.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","8:56 PM","9-073-022-460","TRANSFER CASES",,"MLT7999860","Leak Test FG","1","11.00","M03-Handling Damage","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","8:56 PM","9-073-022-492","TRANSFER CASES",,"MLT7999931","Leak Test FG","1","7.60","D25-Leaker","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","8:57 PM","9-073-022-492","TRANSFER CASES",,"MLT7999931","Leak Test FG","1","7.60","M03-Handling Damage","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","8:59 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7999938","Die Cast Part Shot","2","27.02","D06-Trim Damage","DCM E2 120","KIRA 03",,,"$54.91","$109.82",
+"3/9/2026","9:01 PM","9-072-022-421W","TRANSFER CASES",,"MLT7997101","Die Cast Part Shot","4","30.10","D01-Start-up Scrap","DCM A3 116","CD6 Exp Case Wip",,,"$31.29","$125.17","6"
+"3/9/2026","9:12 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999953","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/9/2026","9:24 PM","9-073-022-461M","TRANSFER CASES",,"MLT7999881","Machining Pierce Part (Final)","2","21.20","M06-Machine Alarm","CNC Makino14 214","Plant B Makino Conveyor",,,"$41.10","$82.19",
+"3/9/2026","9:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8000015","Leak Test FG","4","42.40","D35-Barcode Label","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$176.68",
+"3/9/2026","9:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8000015","Leak Test FG","3","31.80","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$132.51",
+"3/9/2026","9:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8000015","Leak Test FG","1","10.60","O10 - Die Cast Test Part","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","9:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8000015","Leak Test FG","1","10.60","D25-Leaker","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","9:41 PM","9-050-010-485","MAG - BRACKETS",,"MLT7999711","Cell Assembly FG","2","6.65","M22-Targeting","AV T1XX BRKT 248","AV T1XX BRKT 248",,,"$27.99","$55.97",
+"3/9/2026","9:47 PM","9-050-010-485","MAG - BRACKETS",,"MLT7999711","Cell Assembly FG","21","69.85","M14-Broken Tool","AV T1XX BRKT 248","AV T1XX BRKT 248",,,"$27.99","$587.70","changed tool. parts out of spec"
+"3/9/2026","9:48 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000049","Machining Pierce Part (Final)","1","13.38","M06-Machine Alarm","KIRA 08","KIRA 08",,,"$64.12","$64.12",
+"3/9/2026","9:53 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999928","Die Cast Part Shot","1","15.58","D04-Crack","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$55.35","G"
+"3/9/2026","9:59 PM","9-073-022-460W","TRANSFER CASES",,"MLT8000068","Die Cast Part Shot","2","21.65","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$76.78","cav 3"
+"3/9/2026","10:00 PM","9-073-022-460","TRANSFER CASES",,"MLT8000063","Leak Test FG","2","22.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/9/2026","10:00 PM","9-073-022-460","TRANSFER CASES",,"MLT8000063","Leak Test FG","1","11.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","10:03 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000079","Cell Assembly FG","1","10.99","D18-Breakout","JL IP Assy 242","JL IP Assy 242",,,"$67.27","$67.27",
+"3/9/2026","10:03 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999886","Machining Pierce Part (1)","1","10.99","D04-Crack","JL IP Assy 242","JL JT PacLine Monorail",,,"$54.40","$54.40",
+"3/9/2026","10:23 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000100","Machining Pierce Part (1)","2","21.98","M06-Machine Alarm","KIRA 10","KIRA 10",,,"$54.40","$108.80",
+"3/9/2026","10:24 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000101","Machining Pierce Part (1)","6","65.94","M23-Hole out of Position","KIRA 09","KIRA 09",,,"$54.40","$326.39",
+"3/9/2026","10:24 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000102","Machining Pierce Part (1)","1","10.99","D04-Crack","KIRA 10","KIRA 10",,,"$54.40","$54.40",
+"3/9/2026","10:26 PM","9-034-016-500","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000108","Machining Pierce Part (1)","1","11.16","D04-Crack","KIRA 04","KIRA 04",,,"$57.46","$57.46",
+"3/9/2026","10:30 PM","9-086-016-470","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000112","Vision System Inspection","1","13.08","D06-Trim Damage","V Honda 3BM IP 470","V Honda 3BM IP 470",,,"$104.96","$104.96",
+"3/9/2026","10:30 PM","9-073-022-463","TRANSFER CASES",,"MLT8000109","Leak Test FG","1","6.52","D34-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/9/2026","10:32 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000114","Die Cast Part Shot","2","22.47","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$93.94","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","10:33 PM","9-073-022-460","TRANSFER CASES",,"MLT8000063","Leak Test FG","1","11.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","10:33 PM","9-073-022-460","TRANSFER CASES",,"MLT8000063","Leak Test FG","1","11.00","O10 - Die Cast Test Part","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","10:34 PM","9-072-022-422","TRANSFER CASES",,"MLT8000087","Leak Test FG","9","31.86","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$233.61",
+"3/9/2026","10:34 PM","9-072-022-422","TRANSFER CASES",,"MLT8000087","Leak Test FG","4","14.16","O10 - Die Cast Test Part","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$103.82",
+"3/9/2026","10:34 PM","9-072-022-422","TRANSFER CASES",,"MLT8000087","Leak Test FG","1","3.54","M03-Handling Damage","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","10:41 PM","9-073-022-492","TRANSFER CASES",,"MLT8000098","Leak Test FG","1","7.60","D25-Leaker","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","10:41 PM","9-073-022-492","TRANSFER CASES",,"MLT8000098","Leak Test FG","1","7.60","D34-Porosity","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/9/2026","10:46 PM","9-072-022-422","TRANSFER CASES",,"MLT8000087","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/9/2026","10:49 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000135","Vision System Inspection (FG)","1","13.98","D06-Trim Damage","V Honda MDX IP 296","V Honda MDX IP 296",,,"$73.09","$73.09",
+"3/9/2026","10:50 PM","9-176-022-424","TRANSFER CASES",,"MLT7999874","Leak Test FG","1","7.94","O10 - Die Cast Test Part","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/9/2026","10:50 PM","9-176-022-424","TRANSFER CASES",,"MLT7999874","Leak Test FG","10","79.40","D25-Leaker","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$499.92",
+"3/9/2026","10:50 PM","9-073-022-460","TRANSFER CASES",,"MLT8000063","Leak Test FG","1","11.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/9/2026","10:51 PM","9-176-022-424","TRANSFER CASES",,"MLT7999874","Leak Test FG","1","7.94","M01-Porosity","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/9/2026","10:51 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000141","Machining Pierce Part (Final)","1","13.38","M06-Machine Alarm","KIRA 08","KIRA 08",,,"$64.12","$64.12",
+"3/9/2026","10:51 PM","9-176-022-424","TRANSFER CASES",,"MLT7999874","Leak Test FG","2","15.88","D34-Porosity","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$99.98",
+"3/9/2026","10:51 PM","9-072-022-421","TRANSFER CASES",,"MLT8000132","Cell Assembly FG","1","6.81","O10 - Die Cast Test Part","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/9/2026","10:51 PM","9-072-022-421","TRANSFER CASES",,"MLT8000132","Cell Assembly FG","5","34.05","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$209.02",
+"3/9/2026","10:51 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7984869","Die Cast Part Shot","20","267.52","O09-Inventory Adjustment","DCM W3 122","Cycle Retire",,,"$54.18","$1,083.62",
+"3/9/2026","10:51 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7984810","Die Cast Part Shot","20","267.52","O09-Inventory Adjustment","DCM W3 122","Cycle Retire",,,"$54.18","$1,083.62",
+"3/9/2026","10:51 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7985149","Cell Assembly (Final)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$92.48","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7983357","Cell Assembly (Final)","19","254.14","O09-Inventory Adjustment","KIRA 07 Assy","Cycle Retire",,,"$92.48","$1,757.17","not located doing cycle count"
+"3/9/2026","10:51 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7978481","Die Cast Part Shot","24","373.92","O09-Inventory Adjustment","DCM W4 122","Cycle Retire",,,"$55.35","$1,328.43","F/O approved
+not located doing cycle count"
+"3/9/2026","10:51 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7978847","Die Cast Part Shot","24","373.92","O09-Inventory Adjustment","DCM W4 122","Cycle Retire",,,"$55.35","$1,328.43","F/O approved
+not located doing cycle count"
+"3/9/2026","10:51 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7992684","Die Cast Part Shot","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$54.91","$0.00","parts OOS. pending review by QE
+reworked for sc2 & sc4 flash
+zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7986146","Vision System Inspection (FG)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$73.09","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7991416","Cell Assembly (Final)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$71.46","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7989560","Cell Assembly (Final)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$71.46","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7986251","Cell Assembly (Final)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$71.46","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-081-015-464","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7985278","Cell Assembly (Final)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$71.46","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-081-010-480","MAG - BRACKETS",,"MLT7979749","Cell Assembly FG","2","6.80","O09-Inventory Adjustment",,"Cycle Retire",,,"$30.80","$61.60",
+"3/9/2026","10:51 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7979840","Safe Launch","20","188.00","O09-Inventory Adjustment","SL-CX727 IP 253","Cycle Retire",,,"$42.04","$840.84","not located doing cycle count"
+"3/9/2026","10:51 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7878211","Die Cast Part Shot","10","93.52","O09-Inventory Adjustment","DCM E2 120","Cycle Retire",,,"$42.04","$420.42","require safe launch
+not located doing cycle count"
+"3/9/2026","10:51 PM","9-072-010-497","MAG - BRACKETS",,"MLT7974386","Die Cast Part Shot","7","10.58","O09-Inventory Adjustment","DCM B3 112","Cycle Retire",,,"$7.07","$49.46",
+"3/9/2026","10:51 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7926992","Die Cast Part Shot","6","67.41","O09-Inventory Adjustment","DCM A9 118","Cycle Retire",,,"$46.97","$281.82","F"
+"3/9/2026","10:51 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7987040","Die Cast Part Shot (FG)","0","0.00","O09-Inventory Adjustment","DCM E1 120","Cycle Retire",,,"$48.04","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7994590","Die Cast Part Shot (FG)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$48.04","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7989950","Machining Pierce Part (1)","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$54.40","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7996720","Cell Assembly FG","0","0.00","O09-Inventory Adjustment",,"Cycle Retire",,,"$67.27","$0.00","zero quantity put in cycle retire location"
+"3/9/2026","10:51 PM","9-050-010-485W","MAG - BRACKETS",,"MLT7998051","Die Cast Part Shot","30","99.78","O09-Inventory Adjustment",,"Cycle Retire",,,"$18.36","$550.70","Container does not exist"
+"3/9/2026","10:51 PM","9-050-010-485W","MAG - BRACKETS",,"MLT7998052","Die Cast Part Shot","30","99.78","O09-Inventory Adjustment",,"Cycle Retire",,,"$18.36","$550.70","Container does not exist"
+"3/9/2026","10:52 PM","9-073-022-463M","TRANSFER CASES",,"MLT8000142","Machining Pierce Part (1)","1","6.52","M22-Targeting","CNC Makino03 214","CNC Makino12 214",,,"$26.77","$26.77",
+"3/9/2026","10:52 PM","9-176-022-423","TRANSFER CASES",,"MLT8000104","Leak Test FG","2","17.22","M18-Hole Size Out of Spec","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$94.37",
+"3/9/2026","10:52 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000146","Die Cast Part Shot","1","15.58","D04-Crack","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$55.35","G"
+"3/9/2026","10:52 PM","9-176-022-423","TRANSFER CASES",,"MLT8000104","Leak Test FG","2","17.22","D34-Porosity","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$94.37",
+"3/9/2026","10:52 PM","9-176-022-423","TRANSFER CASES",,"MLT8000104","Leak Test FG","3","25.83","M03-Handling Damage","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$141.56",
+"3/9/2026","10:52 PM","9-073-022-461","TRANSFER CASES",,"MLT8000127","Leak Test FG","1","10.60","D25-Leaker","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/9/2026","10:54 PM","9-073-022-463M","TRANSFER CASES",,"MLT8000151","Machining Pierce Part (1)","1","6.52","D06-Trim Damage","CNC Makino01 214","CNC Makino12 214",,,"$26.77","$26.77",
+"3/9/2026","10:55 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8000159","Machining Pierce Part (Final)","38","10.17","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$141.44",
+"3/9/2026","10:56 PM","9-073-022-461W","TRANSFER CASES",,"MLT8000161","Die Cast Part Shot","8","83.80","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$296.04","cav 10"
+"3/9/2026","11:03 PM","9-176-022-424W","TRANSFER CASES",,"MLT8000170","Die Cast Part Shot","4","31.66","D01-Start-up Scrap","DCM B7 112","Plant C Storage",,,"$36.70","$146.82","FO APPROVED"
+"3/9/2026","11:08 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000146","Die Cast Part Shot","9","140.22","D04-Crack","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$498.16","G"
+"3/9/2026","11:27 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000196","Die Cast Part Shot","1","11.24","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/9/2026","11:33 PM","9-072-022-421W","TRANSFER CASES",,"MLT8000165","Die Cast Part Shot","3","22.58","D04-Crack","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$93.88","CAV 7"
+"3/9/2026","11:33 PM","9-072-022-421W","TRANSFER CASES",,"MLT8000165","Die Cast Part Shot","2","15.05","D06-Trim Damage","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$62.58","CAV 7"
+"3/9/2026","11:36 PM","9-073-022-461W","TRANSFER CASES",,"MLT8000208","Die Cast Part Shot","5","52.38","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$185.03","cav 10"
+"3/9/2026","11:41 PM","9-176-022-424W","TRANSFER CASES",,"MLT8000170","Die Cast Part Shot","1","7.92","D02-Incomplete Fill/Cold Shut/Cold Flow","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/9/2026","11:46 PM","9-072-022-422W","TRANSFER CASES",,"MLT8000219","Die Cast Part Shot","3","11.92","D01-Start-up Scrap","DCM A5 116","Trailer Dock C26",,,"$16.89","$50.68","7"
+"3/9/2026","11:47 PM","9-072-022-422W","TRANSFER CASES",,"MLT8000220","Die Cast Part Shot","3","11.92","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$50.68","8"
+"3/9/2026","11:47 PM","9-072-022-422W","TRANSFER CASES",,"MLT8000220","Die Cast Part Shot","1","3.97","D15-Sinks","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/10/2026","11:25 PM","9-050-010-485","MAG - BRACKETS",,"MLT8000085","Cell Assembly FG","5","16.63","M02-Cracked at Machining","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$139.93",
+"3/10/2026","11:40 PM","9-078-016-478","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000211","Machining Pierce Part (Final)","8","72.88","M01-Porosity","KIRA 05","KIRA 05",,,"$48.81","$390.44",
+"3/10/2026","11:52 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7999658","Machining Pierce Part (1)","3","32.97","D04-Crack","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$163.19",
+"3/10/2026","12:00 AM","9-176-022-424","TRANSFER CASES",,"MLT7999874","Leak Test FG","1","7.94","M01-Porosity","LT-CD6 Transit Cover 215","LT-CD6 Transit Cover 215",,,"$49.99","$49.99",
+"3/10/2026","12:11 AM","9-176-022-424W","TRANSFER CASES",,"MLT8000170","Die Cast Part Shot","2","15.83","D01-Start-up Scrap","DCM B7 112","Plant C Storage",,,"$36.70","$73.41","FO APPROVED"
+"3/10/2026","12:12 AM","9-073-022-461","TRANSFER CASES",,"MLT8000231","Leak Test FG","1","10.60","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","12:30 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7888623","Die Cast Part Shot","6","81.06","D06-Trim Damage","KIRA 03","KIRA 03",,,"$54.91","$329.45","parts OOS, pending further review by QE
+Mar 3: Parts went through Scan box and Verified as per Sort sheet from Layout team.
+Reworked for SC2 & SC4 flash"
+"3/10/2026","12:35 AM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000256","Safe Launch","94","883.60","D04-Crack","SL-CX727 IP 253","SL-CX727 IP 253",,,"$42.04","$3,951.95",
+"3/10/2026","12:35 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7990262","Die Cast Part Shot","1","15.58","D04-Crack","V Honda Pilot IP 347","V Honda Pilot IP 347",,,"$55.35","$55.35","G"
+"3/10/2026","12:35 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7990262","Die Cast Part Shot","1","15.58","D02-Incomplete Fill/Cold Shut/Cold Flow","V Honda Pilot IP 347","V Honda Pilot IP 347",,,"$55.35","$55.35","G"
+"3/10/2026","12:39 AM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8000260","Machining Pierce Part (Final)","2","0.54","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$7.44",
+"3/10/2026","12:43 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000217","Cell Assembly FG","3","9.98","D39-Heat Checks","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$83.96",
+"3/10/2026","12:43 AM","9-072-022-422","TRANSFER CASES",,"MLT8000261","Leak Test FG","1","3.54","D35-Barcode Label","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","12:56 AM","9-176-022-424W","TRANSFER CASES",,"MLT8000170","Die Cast Part Shot","1","7.92","D01-Start-up Scrap","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","1:02 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000219","Die Cast Part Shot","2","7.95","D01-Start-up Scrap","DCM A5 116","Trailer Dock C26",,,"$16.89","$33.78","7"
+"3/10/2026","1:02 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000220","Die Cast Part Shot","2","7.95","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$33.78","8"
+"3/10/2026","1:24 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000294","Die Cast Part Shot","1","6.52","D19-Broken Biscuit","DCM A7 116","WIP Makino 5-6",,,"$22.14","$22.14","Cav 9"
+"3/10/2026","1:24 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000295","Die Cast Part Shot","1","6.52","D19-Broken Biscuit","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 10"
+"3/10/2026","1:24 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000294","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 5-6",,,"$22.14","$22.14","Cav 9"
+"3/10/2026","1:24 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000295","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 10"
+"3/10/2026","1:30 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000274","Cell Assembly FG","1","3.33","M13-Mis-Load","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","1:32 AM","9-073-022-461W","TRANSFER CASES",,"MLT8000208","Die Cast Part Shot","5","52.38","D04-Crack","DCM W2 121","WIP Makino 14-15",,,"$37.01","$185.03","cav 10"
+"3/10/2026","1:37 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000302","Die Cast Part Shot","3","26.37","D06-Trim Damage","DCM A8 118","High Street Yard",,,"$33.52","$100.56","Cav.A"
+"3/10/2026","1:37 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","3","1.23","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$2.58","$7.75","Cav.A"
+"3/10/2026","1:37 AM","9-085-010-435","MAG - BRACKETS",,"MLT7998599","Die Cast Part Shot","3","2.01","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$1.54","$4.61","Cav.A"
+"3/10/2026","1:37 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000302","Die Cast Part Shot","2","17.58","D01-Start-up Scrap","DCM A8 118","High Street Yard",,,"$33.52","$67.04","Cav.A"
+"3/10/2026","1:37 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","2","0.82","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$2.58","$5.16","Cav.A"
+"3/10/2026","1:37 AM","9-085-010-435","MAG - BRACKETS",,"MLT7998599","Die Cast Part Shot","2","1.34","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$1.54","$3.07","Cav.A"
+"3/10/2026","1:38 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000303","Die Cast Part Shot","4","43.31","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$153.55","cav 3"
+"3/10/2026","1:38 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000303","Die Cast Part Shot","2","21.65","D16-Biscuit Size","DCM A1 116","WIP makino 11-13",,,"$38.39","$76.78","cav 3"
+"3/10/2026","1:43 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000290","Die Cast Part Shot","1","11.24","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","1:47 AM","9-073-022-463","TRANSFER CASES",,"MLT8000298","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","1:47 AM","9-073-022-463","TRANSFER CASES",,"MLT8000298","Leak Test FG","1","6.52","D18-Breakout","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","1:59 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000299","Die Cast Part Shot","3","6.24","D01-Start-up Scrap","DCM B4 112","MAG030-C",,,"$9.32","$27.97",
+"3/10/2026","1:59 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000296","Die Cast Part Shot","3","6.86","D01-Start-up Scrap","DCM B4 112","MAG030-C",,,"$9.62","$28.87",
+"3/10/2026","2:00 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000299","Die Cast Part Shot","1","2.08","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","2:00 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000296","Die Cast Part Shot","6","13.71","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$57.73",
+"3/10/2026","2:21 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000356","Die Cast Part Shot (FG)","2","21.98","D04-Crack","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$96.09",
+"3/10/2026","2:28 AM","9-073-022-461W","TRANSFER CASES",,"MLT8000358","Die Cast Part Shot","1","10.48","D41-Etched Barcode","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/10/2026","2:45 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000365","Cell Assembly FG","3","9.98","M02-Cracked at Machining","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$83.96",
+"3/10/2026","2:51 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000376","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","2:52 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000299","Die Cast Part Shot","1","2.08","D19-Broken Biscuit","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","2:52 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000296","Die Cast Part Shot","1","2.29","D19-Broken Biscuit","DCM B4 112","MAG030-C",,,"$9.62","$9.62",
+"3/10/2026","2:52 AM","9-072-022-422","TRANSFER CASES",,"MLT8000380","Leak Test FG","5","17.70","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$129.78",
+"3/10/2026","2:53 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000299","Die Cast Part Shot","2","4.16","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$18.65",
+"3/10/2026","2:53 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000296","Die Cast Part Shot","2","4.57","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$19.24",
+"3/10/2026","2:55 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000365","Cell Assembly FG","1","3.33","D18-Breakout","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","2:57 AM","9-073-022-461W","TRANSFER CASES",,"MLT8000386","Die Cast Part Shot","1","10.48","D41-Etched Barcode","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/10/2026","3:04 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000405","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/10/2026","3:22 AM","9-073-022-463","TRANSFER CASES",,"MLT8000375","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","3:51 AM","9-176-022-424W","TRANSFER CASES",,"MLT8000406","Die Cast Part Shot","1","7.92","D19-Broken Biscuit","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","3:52 AM","9-072-022-421W","TRANSFER CASES",,"MLT8000485","Die Cast Part Shot","1","7.53","D01-Start-up Scrap","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$31.29","CAV 7"
+"3/10/2026","3:54 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000365","Cell Assembly FG","1","3.33","M03-Handling Damage","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","3:58 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000491","Die Cast Part Shot (FG)","2","21.98","D04-Crack","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$96.09",
+"3/10/2026","4:02 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000496","Die Cast Part Shot","1","2.08","D19-Broken Biscuit","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","4:02 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000497","Die Cast Part Shot","1","2.29","D20-Broken Core","DCM B4 112","MAG030-C",,,"$9.62","$9.62",
+"3/10/2026","4:02 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000496","Die Cast Part Shot","2","4.16","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$18.65",
+"3/10/2026","4:03 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000497","Die Cast Part Shot","5","11.43","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$48.11",
+"3/10/2026","4:33 AM","9-073-022-492W","TRANSFER CASES",,"MLT7912764","Die Cast Part Shot","1","7.64","D35-Barcode Label","CNC Makino06 214","WIP Makino 5-6",,,"$32.86","$32.86","CAV 1"
+"3/10/2026","4:48 AM","9-176-022-424W","TRANSFER CASES",,"MLT8000518","Die Cast Part Shot","1","7.92","D19-Broken Biscuit","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","4:49 AM","9-073-022-461M","TRANSFER CASES",,"MLT8000531","Machining Pierce Part (Final)","12","127.20","M22-Targeting","CNC Makino09 214","CNC Makino09 214",,,"$41.10","$493.16",
+"3/10/2026","4:57 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000539","Die Cast Part Shot","4","8.32","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$37.30",
+"3/10/2026","4:57 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000540","Die Cast Part Shot","2","4.57","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$19.24",
+"3/10/2026","4:57 AM","9-073-022-463","TRANSFER CASES",,"MLT8000544","Leak Test FG","2","13.04","O10 - Die Cast Test Part","LT-P702 Cover 214","LT-P702 Cover 214",,,"$32.69","$65.37",
+"3/10/2026","4:57 AM","9-073-022-463","TRANSFER CASES",,"MLT8000546","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","LT-P702 Cover 214",,,"$32.69","$32.69",
+"3/10/2026","4:57 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000539","Die Cast Part Shot","1","2.08","D19-Broken Biscuit","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","4:57 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000540","Die Cast Part Shot","1","2.29","D19-Broken Biscuit","DCM B4 112","MAG030-C",,,"$9.62","$9.62",
+"3/10/2026","4:59 AM","9-176-022-423","TRANSFER CASES",,"MLT8000470","Leak Test FG","1","8.61","D06-Trim Damage","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$47.19",
+"3/10/2026","4:59 AM","9-176-022-423","TRANSFER CASES",,"MLT8000470","Leak Test FG","1","8.61","M01-Porosity","LT-CD6 Transit Case 215","Dock-SH-C32",,,"$47.19","$47.19",
+"3/10/2026","5:00 AM","9-073-022-461","TRANSFER CASES",,"MLT8000519","Leak Test FG","1","10.60","D25-Leaker","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","5:00 AM","9-073-022-461","TRANSFER CASES",,"MLT8000519","Leak Test FG","1","10.60","M12-Machining Sample","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","5:00 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000549","Die Cast Part Shot","2","13.04","D41-Etched Barcode","DCM A7 116","WIP Makino 3-4",,,"$22.14","$44.29","Cav 10"
+"3/10/2026","5:00 AM","9-176-022-424","TRANSFER CASES",,"MLT8000364","Leak Test FG","1","7.94","O10 - Die Cast Test Part","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","5:01 AM","9-072-022-422","TRANSFER CASES",,"MLT8000550","Leak Test FG","3","10.62","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$77.87",
+"3/10/2026","5:01 AM","9-072-022-422","TRANSFER CASES",,"MLT8000550","Leak Test FG","2","7.08","O10 - Die Cast Test Part","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/10/2026","5:01 AM","9-072-022-422","TRANSFER CASES",,"MLT8000550","Leak Test FG","1","3.54","M03-Handling Damage","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","5:02 AM","9-072-022-422","TRANSFER CASES",,"MLT8000550","Leak Test FG","1","3.54","M01-Porosity","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","5:32 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000486","Die Cast Part Shot","1","3.97","D16-Biscuit Size","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","7"
+"3/10/2026","5:32 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000487","Die Cast Part Shot","1","3.97","D16-Biscuit Size","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/10/2026","5:32 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000486","Die Cast Part Shot","1","3.97","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","7"
+"3/10/2026","5:32 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000487","Die Cast Part Shot","1","3.97","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/10/2026","5:32 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000539","Die Cast Part Shot","4","8.32","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$37.30",
+"3/10/2026","5:32 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000540","Die Cast Part Shot","1","2.29","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$9.62",
+"3/10/2026","5:43 AM","9-050-010-485W","MAG - BRACKETS",,"MLT7998079","Die Cast Part Shot","4","13.30","D06-Trim Damage","AV T1XX BRKT 248","AV T1XX BRKT 248",,,"$18.36","$73.43",
+"3/10/2026","5:48 AM","9-073-022-461W","TRANSFER CASES",,"MLT8000608","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/10/2026","5:51 AM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000613","Die Cast Part Shot","2","26.75","D01-Start-up Scrap","DCM W3 122","DCM W3 122",,,"$54.18","$108.36",
+"3/10/2026","5:59 AM","9-073-022-492","TRANSFER CASES",,"MLT8000530","Leak Test FG","4","30.40","D25-Leaker","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$199.28",
+"3/10/2026","6:00 AM","9-073-022-492","TRANSFER CASES",,"MLT8000530","Leak Test FG","1","7.60","D34-Porosity","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/10/2026","6:02 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000632","Die Cast Part Shot","3","32.48","D07-Die Lube/Black Part","DCM A1 116","Trailer Dock C32",,,"$38.39","$115.17","cav 3"
+"3/10/2026","6:02 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000632","Die Cast Part Shot","3","32.48","D01-Start-up Scrap","DCM A1 116","Trailer Dock C32",,,"$38.39","$115.17","cav 3"
+"3/10/2026","6:04 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000635","Die Cast Part Shot (FG)","2","21.98","D04-Crack","DCM E1 120","KIRA 04",,,"$48.04","$96.09",
+"3/10/2026","6:04 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000635","Die Cast Part Shot (FG)","2","21.98","D06-Trim Damage","DCM E1 120","KIRA 04",,,"$48.04","$96.09",
+"3/10/2026","6:04 AM","9-073-022-460","TRANSFER CASES",,"MLT8000541","Leak Test FG","5","55.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$221.32",
+"3/10/2026","6:04 AM","9-073-022-460","TRANSFER CASES",,"MLT8000541","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/10/2026","6:04 AM","9-073-022-460","TRANSFER CASES",,"MLT8000541","Leak Test FG","1","11.00","O10 - Die Cast Test Part","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","6:05 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000637","Die Cast Part Shot","2","17.58","D01-Start-up Scrap","DCM A8 118","MA Mazak 240",,,"$33.52","$67.04","Cav.A"
+"3/10/2026","6:05 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","2","0.82","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$2.58","$5.16","Cav.A"
+"3/10/2026","6:05 AM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","2","1.34","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$1.54","$3.07","Cav.A"
+"3/10/2026","6:06 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000637","Die Cast Part Shot","2","17.58","D01-Start-up Scrap","DCM A8 118","MA Mazak 240",,,"$33.52","$67.04","Cav.A"
+"3/10/2026","6:06 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","2","0.82","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$2.58","$5.16","Cav.A"
+"3/10/2026","6:06 AM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","2","1.34","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$1.54","$3.07","Cav.A"
+"3/10/2026","6:12 AM","9-073-022-461M","TRANSFER CASES",,"MLT8000654","Machining Pierce Part (Final)","2","21.20","M06-Machine Alarm","CNC Makino14 214","CNC Makino14 214",,,"$41.10","$82.19",
+"3/10/2026","6:17 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000611","Cell Assembly FG","2","6.65","M02-Cracked at Machining","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$55.97",
+"3/10/2026","6:21 AM","9-073-022-461M","TRANSFER CASES",,"MLT8000661","Machining Pierce Part (Final)","6","63.60","M22-Targeting","CNC Makino09 214","CNC Makino09 214",,,"$41.10","$246.58",
+"3/10/2026","6:26 AM","9-072-022-421","TRANSFER CASES",,"MLT8000663","Machining Pierce Part (1)","2","13.88","M22-Targeting","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","6:27 AM","9-050-010-485W","MAG - BRACKETS",,"MLT7998070","Die Cast Part Shot","1","3.33","D04-Crack","AV T1XX BRKT 248","AV T1XX BRKT 248","4",,"$18.36","$18.36",
+"3/10/2026","6:28 AM","9-050-010-485","MAG - BRACKETS",,"MLT8000666","Cell Assembly FG","1","3.33","D06-Trim Damage","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","6:29 AM","9-072-022-421","TRANSFER CASES",,"MLT8000607","Cell Assembly FG","4","27.24","O14-Incomplete Operation","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$167.22","M17 broken Z hole tool- Sorted."
+"3/10/2026","6:31 AM","9-072-022-421","TRANSFER CASES",,"MLT8000663","Machining Pierce Part (1)","2","13.88","M14-Broken Tool","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","6:32 AM","9-072-022-422","TRANSFER CASES",,"MLT8000670","Leak Test FG","4","14.16","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$103.82",
+"3/10/2026","6:32 AM","9-072-022-422","TRANSFER CASES",,"MLT8000670","Leak Test FG","1","3.54","M04-Non-Cleanup","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","6:32 AM","9-072-022-422","TRANSFER CASES",,"MLT8000670","Leak Test FG","1","3.54","M03-Handling Damage","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","6:42 AM","9-072-022-422","TRANSFER CASES",,"MLT8000685","Machining Pierce Part (Final)","3","10.62","M06-Machine Alarm","CNC Makino20B 215","CNC Makino20B 215",,,"$24.05","$72.15",
+"3/10/2026","6:47 AM","9-176-022-423","TRANSFER CASES",,"MLT8000699","Leak Test FG","1","8.61","D35-Barcode Label","LT-CD6 Transit Case 215","Zone 2",,,"$47.19","$47.19",
+"3/10/2026","6:47 AM","9-176-022-424","TRANSFER CASES",,"MLT8000693","Leak Test FG","1","7.94","M03-Handling Damage","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","6:47 AM","9-176-022-424","TRANSFER CASES",,"MLT8000693","Leak Test FG","1","7.94","O10 - Die Cast Test Part","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","6:50 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000703","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 9"
+"3/10/2026","6:50 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000702","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 1-2",,,"$22.14","$22.14","Cav 10"
+"3/10/2026","6:50 AM","9-073-022-460","TRANSFER CASES",,"MLT8000704","Leak Test FG","1","11.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","6:50 AM","9-073-022-460","TRANSFER CASES",,"MLT8000704","Leak Test FG","1","11.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","6:51 AM","9-073-022-492","TRANSFER CASES",,"MLT8000530","Leak Test FG","1","7.60","D25-Leaker","Leaktester Cover 386","Dock-SH-C32",,,"$49.82","$49.82",
+"3/10/2026","6:51 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000635","Die Cast Part Shot (FG)","1","10.99","D04-Crack","DCM E1 120","KIRA 04",,,"$48.04","$48.04",
+"3/10/2026","6:52 AM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8000707","Machining Pierce Part (Final)","45","12.04","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$167.49",
+"3/10/2026","6:52 AM","9-073-022-461W","TRANSFER CASES",,"MLT8000689","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/10/2026","6:52 AM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8000708","Machining Pierce Part (Final)","1","0.27","D34-Porosity","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$3.72",
+"3/10/2026","6:53 AM","9-072-022-421W","TRANSFER CASES",,"MLT8000706","Die Cast Part Shot","1","7.53","D06-Trim Damage","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$31.29","CAV 7"
+"3/10/2026","6:56 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000632","Die Cast Part Shot","2","21.65","D01-Start-up Scrap","DCM A1 116","Trailer Dock C32",,,"$38.39","$76.78","cav 3"
+"3/10/2026","6:59 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000698","Die Cast Part Shot","2","7.95","D15-Sinks","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$33.78","8"
+"3/10/2026","7:04 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000711","Die Cast Part Shot","1","10.83","D07-Die Lube/Black Part","DCM A1 116","Trailer Dock C32",,,"$38.39","$38.39","cav 3"
+"3/10/2026","7:04 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000712","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","KIRA 10",,,"$48.04","$48.04",
+"3/10/2026","7:08 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000713","Die Cast Part Shot","2","4.16","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$18.65",
+"3/10/2026","7:15 AM","9-176-022-424W","TRANSFER CASES",,"MLT8000559","Die Cast Part Shot","1","7.92","D01-Start-up Scrap","DCM B7 112","CNC Makino26B 215",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","7:19 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000705","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","7:20 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000705","Die Cast Part Shot","2","22.47","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$93.94","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","7:24 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000728","Die Cast Part Shot","2","13.04","D16-Biscuit Size","DCM A7 116","WIP Makino 3-4",,,"$22.14","$44.29","Cav 10"
+"3/10/2026","7:26 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000731","Die Cast Part Shot","4","62.32","D26-Stuck Casting","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$221.40","G"
+"3/10/2026","7:27 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000731","Die Cast Part Shot","2","31.16","D01-Start-up Scrap","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$110.70","G"
+"3/10/2026","7:27 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000731","Die Cast Part Shot","3","46.74","D20-Broken Core","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$166.05","G"
+"3/10/2026","7:36 AM","9-072-022-421W","TRANSFER CASES",,"MLT8000706","Die Cast Part Shot","1","7.53","D06-Trim Damage","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$31.29","CAV 7"
+"3/10/2026","7:38 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000712","Die Cast Part Shot (FG)","3","32.97","D06-Trim Damage","DCM E1 120","KIRA 10",,,"$48.04","$144.13",
+"3/10/2026","7:42 AM","9-032-015-337","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000733","Cell Assembly FG","2","22.00","D04-Crack","MA WK/WD 203","Dock-SH-C32",,,"$60.26","$120.53","K"
+"3/10/2026","7:42 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000738","Die Cast Part Shot","1","10.83","D19-Broken Biscuit","DCM A1 116","Trailer Dock C32",,,"$38.39","$38.39","cav 3"
+"3/10/2026","7:48 AM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000731","Die Cast Part Shot","1","15.58","D20-Broken Core","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$55.35","G"
+"3/10/2026","7:49 AM","9-072-022-421W","TRANSFER CASES",,"MLT8000742","Die Cast Part Shot","1","7.53","D01-Start-up Scrap","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$31.29","CAV 7"
+"3/10/2026","7:51 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000745","Die Cast Part Shot","1","8.79","D19-Broken Biscuit","DCM A8 118","High Street Yard",,,"$33.52","$33.52","Cav.A"
+"3/10/2026","7:51 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","1","0.41","D19-Broken Biscuit","DCM A8 118","Plant a Storage",,,"$2.58","$2.58","Cav.A"
+"3/10/2026","7:51 AM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","1","0.67","D19-Broken Biscuit","DCM A8 118","Plant a Storage",,,"$1.54","$1.54","Cav.A"
+"3/10/2026","7:53 AM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000751","Machining Pierce Part (Final)","1","13.38","O14-Incomplete Operation","KIRA 08","KIRA 08",,,"$64.12","$64.12",
+"3/10/2026","7:57 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000713","Die Cast Part Shot","5","10.40","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$46.62",
+"3/10/2026","7:57 AM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000760","Die Cast Part Shot","3","6.86","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$28.87",
+"3/10/2026","7:57 AM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8000713","Die Cast Part Shot","1","2.08","D06-Trim Damage","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","8:02 AM","9-034-010-425","MAG - BRACKETS",,"MLT8000766","Cell Assembly FG","4","0.60","M12-Machining Sample","MA JL Tunnel Brkt - 425","Dock-SH-C32",,,"$3.65","$14.59",
+"3/10/2026","8:03 AM","9-034-010-426","MAG - BRACKETS",,"MLT8000769","Cell Assembly FG","4","0.58","M12-Machining Sample","MA JL Tunnel Brkt - 426","Dock-SH-C32",,,"$3.62","$14.46",
+"3/10/2026","8:19 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7888623","Die Cast Part Shot","6","81.06","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$329.45","parts OOS, pending further review by QE
+Mar 3: Parts went through Scan box and Verified as per Sort sheet from Layout team.
+Reworked for SC2 & SC4 flash"
+"3/10/2026","8:29 AM","9-072-022-422","TRANSFER CASES",,"MLT8000735","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","8:39 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000802","Die Cast Part Shot","1","11.24","D06-Trim Damage","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","8:50 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000755","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 1-2",,,"$22.14","$22.14","Cav 9"
+"3/10/2026","8:50 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000728","Die Cast Part Shot","1","6.52","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 10"
+"3/10/2026","8:50 AM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000810","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","8:54 AM","9-073-022-460W","TRANSFER CASES",,"MLT8000817","Die Cast Part Shot","1","10.83","D01-Start-up Scrap","DCM A1 116","Trailer Dock C32",,,"$38.39","$38.39","cav 3"
+"3/10/2026","8:58 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000827","Die Cast Part Shot","1","8.79","D01-Start-up Scrap","DCM A8 118","High Street Yard",,,"$33.52","$33.52","Cav.A"
+"3/10/2026","8:58 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","1","0.41","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$2.58","$2.58","Cav.A"
+"3/10/2026","8:58 AM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","1","0.67","D01-Start-up Scrap","DCM A8 118","Plant a Storage",,,"$1.54","$1.54","Cav.A"
+"3/10/2026","8:58 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000827","Die Cast Part Shot","1","8.79","D06-Trim Damage","DCM A8 118","High Street Yard",,,"$33.52","$33.52","Cav.A"
+"3/10/2026","8:58 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","1","0.41","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$2.58","$2.58","Cav.A"
+"3/10/2026","8:58 AM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","1","0.67","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$1.54","$1.54","Cav.A"
+"3/10/2026","9:00 AM","9-176-022-424","TRANSFER CASES",,"MLT8000693","Leak Test FG","1","7.94","D25-Leaker","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","9:00 AM","9-050-010-485W","MAG - BRACKETS",,"MLT7998601","Die Cast Part Shot","1","3.33","D06-Trim Damage","AV T1XX BRKT 248","AV T1XX BRKT 248","4",,"$18.36","$18.36",
+"3/10/2026","9:04 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000836","Die Cast Part Shot (FG)","2","21.98","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$96.09",
+"3/10/2026","9:19 AM","9-072-022-422","TRANSFER CASES",,"MLT8000735","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","9:44 AM","9-073-022-461","TRANSFER CASES",,"MLT8000862","Leak Test FG","2","21.20","D35-Barcode Label","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$88.34",
+"3/10/2026","9:45 AM","9-073-022-461","TRANSFER CASES",,"MLT8000862","Leak Test FG","1","10.60","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","9:46 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000868","Die Cast Part Shot","1","3.97","D01-Start-up Scrap","DCM A5 116","Trailer Dock C26",,,"$16.89","$16.89","7"
+"3/10/2026","9:46 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000869","Die Cast Part Shot","1","3.97","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/10/2026","9:46 AM","9-072-022-422W","TRANSFER CASES",,"MLT8000869","Die Cast Part Shot","1","3.97","D15-Sinks","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$16.89","8"
+"3/10/2026","9:52 AM","9-072-022-422","TRANSFER CASES",,"MLT8000878","Leak Test FG","2","7.08","O10 - Die Cast Test Part","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/10/2026","9:54 AM","9-072-010-497","MAG - BRACKETS",,"MLT7996684","Die Cast Part Shot","11","16.63","D04-Crack","SL-U625 Display Brkt","SL-U625 Display Brkt",,,"$7.07","$77.72","process crack found"
+"3/10/2026","9:55 AM","9-072-022-421","TRANSFER CASES",,"MLT8000886","Machining Pierce Part (1)","2","13.88","M22-Targeting","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","10:00 AM","9-072-022-422","TRANSFER CASES",,"MLT8000895","Machining Pierce Part (1)","2","7.18","O14-Incomplete Operation","CNC Makino21 215","CD6 Parts Conveyor",,,"$22.03","$44.06",
+"3/10/2026","10:03 AM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7994325","Die Cast Part Shot","6","81.06","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$329.45","FO approved at machining."
+"3/10/2026","10:11 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000917","Die Cast Part Shot (FG)","3","32.97","D06-Trim Damage","DCM E1 120","KIRA 04",,,"$48.04","$144.13",
+"3/10/2026","10:11 AM","9-072-022-422","TRANSFER CASES",,"MLT8000878","Leak Test FG","10","31.86","M18-Hole Size Out of Spec","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$259.56","H1 & H2 Chamfer"
+"3/10/2026","10:11 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000917","Die Cast Part Shot (FG)","5","54.95","D01-Start-up Scrap","DCM E1 120","KIRA 04",,,"$48.04","$240.22",
+"3/10/2026","10:33 AM","9-176-022-424W","TRANSFER CASES",,"MLT8000940","Die Cast Part Shot","2","15.83","D01-Start-up Scrap","DCM B7 112","Transit Makino WIP",,,"$36.70","$73.41","FO APPROVED"
+"3/10/2026","10:44 AM","9-072-022-421","TRANSFER CASES",,"MLT8000949","Machining Pierce Part (1)","12","83.29","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$438.26",
+"3/10/2026","10:45 AM","9-072-022-421","TRANSFER CASES",,"MLT8000950","Machining Pierce Part (1)","2","13.88","M22-Targeting","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","10:54 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000956","Die Cast Part Shot","1","6.52","D16-Biscuit Size","DCM A7 116","WIP Makino 1-2",,,"$22.14","$22.14","Cav 9"
+"3/10/2026","10:54 AM","9-073-022-463W","TRANSFER CASES",,"MLT8000958","Die Cast Part Shot","1","6.52","D16-Biscuit Size","DCM A7 116","WIP Makino 3-4",,,"$22.14","$22.14","Cav 10"
+"3/10/2026","10:55 AM","9-072-022-422","TRANSFER CASES",,"MLT8000878","Leak Test FG","1","3.54","M04-Non-Cleanup","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","10:55 AM","9-072-022-422","TRANSFER CASES",,"MLT8000878","Leak Test FG","1","3.54","D15-Sinks","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","10:59 AM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000970","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","KIRA 09",,,"$48.04","$48.04",
+"3/10/2026","11:03 AM","9-073-022-461","TRANSFER CASES",,"MLT8000954","Leak Test FG","2","21.20","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$88.34",
+"3/10/2026","11:03 AM","9-073-022-461","TRANSFER CASES",,"MLT8000954","Leak Test FG","1","10.60","D25-Leaker","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","11:08 AM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8000983","Die Cast Part Shot","3","40.13","D01-Start-up Scrap","DCM W3 122","DCM W3 122",,,"$54.18","$162.54",
+"3/10/2026","11:36 AM","9-073-022-463W","TRANSFER CASES",,"MLT8001005","Die Cast Part Shot","2","13.04","D15-Sinks","DCM A7 116","WIP Makino 3-4",,,"$22.14","$44.29","Cav 10"
+"3/10/2026","11:39 AM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001009","Die Cast Part Shot","3","26.37","D06-Trim Damage","DCM A8 118","High Street Yard",,,"$33.52","$100.56","Cav.A"
+"3/10/2026","11:39 AM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","3","1.23","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$2.58","$7.75","Cav.A"
+"3/10/2026","11:39 AM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","3","2.01","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$1.54","$4.61","Cav.A"
+"3/10/2026","11:40 AM","9-072-022-421","TRANSFER CASES",,"MLT8001010","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","11:52 AM","9-072-022-421","TRANSFER CASES",,"MLT8001018","Cell Assembly FG","4","27.24","D34-Porosity","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$167.22",
+"3/10/2026","11:56 AM","9-072-010-497","MAG - BRACKETS",,"MLT7995167","Die Cast Part Shot","4","6.05","D04-Crack","SL-U625 Display Brkt","SL-U625 Display Brkt",,,"$7.07","$28.26","process crack found"
+"3/10/2026","11:58 AM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7986839","Die Cast Part Shot","1","13.38","D04-Crack","KIRA 07","KIRA 07",,,"$54.18","$54.18",
+"3/10/2026","12:01 PM","9-072-022-421","TRANSFER CASES",,"MLT8001018","Cell Assembly FG","2","13.62","D34-Porosity","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$83.61",
+"3/10/2026","12:01 PM","9-073-022-463","TRANSFER CASES",,"MLT8001036","Leak Test FG","3","19.56","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$98.06",
+"3/10/2026","12:07 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001038","Die Cast Part Shot","1","3.97","D15-Sinks","DCM A5 116","Plant C Storage",,,"$16.89","$16.89","7 cleanpoint verification broken G core"
+"3/10/2026","12:07 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001039","Die Cast Part Shot","2","7.95","D15-Sinks","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$33.78","8 cleanpoint verification broken G core"
+"3/10/2026","12:07 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001039","Die Cast Part Shot","6","23.84","D20-Broken Core","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$101.35","8 cleanpoint verification broken G core"
+"3/10/2026","12:08 PM","9-073-022-463","TRANSFER CASES",,"MLT8001036","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","12:08 PM","9-073-022-463","TRANSFER CASES",,"MLT8001036","Leak Test FG","1","6.52","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","12:08 PM","9-073-022-463","TRANSFER CASES",,"MLT8001036","Leak Test FG","2","13.04","O10 - Die Cast Test Part","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$65.37",
+"3/10/2026","12:09 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001058","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","DCM W2 121",,,"$37.01","$37.01","cav 10"
+"3/10/2026","12:13 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7994336","Die Cast Part Shot","2","27.02","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$109.82","FO approved at machining."
+"3/10/2026","12:14 PM","9-176-022-424","TRANSFER CASES",,"MLT8000972","Leak Test FG","1","7.94","M12-Machining Sample","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","12:18 PM","9-073-022-492","TRANSFER CASES",,"MLT8001068","Leak Test FG","3","22.80","D34-Porosity","Leaktester Cover 386","Leaktester Cover 386",,,"$49.82","$149.46",
+"3/10/2026","12:19 PM","9-073-022-492","TRANSFER CASES",,"MLT8001068","Leak Test FG","12","91.20","D25-Leaker","Leaktester Cover 386","Leaktester Cover 386",,,"$49.82","$597.85",
+"3/10/2026","12:20 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001048","Die Cast Part Shot (FG)","5","54.95","D01-Start-up Scrap","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$240.22",
+"3/10/2026","12:21 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001048","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/10/2026","12:24 PM","9-072-022-421","TRANSFER CASES",,"MLT8001079","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","12:32 PM","9-072-022-421","TRANSFER CASES",,"MLT8001082","Machining Pierce Part (1)","2","13.88","M22-Targeting","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","12:38 PM","9-086-016-470IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7895080","Die Cast Part Shot","27","324.32","D12-Bent/Warped","DCM W4 122","Plt E Scrap Strg",,,"$53.84","$1,453.57","Parts deemed scrap as per note in plex and were moved to the scrap pile"
+"3/10/2026","12:39 PM","9-073-022-460","TRANSFER CASES",,"MLT8000908","Leak Test FG","9","99.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$398.38",
+"3/10/2026","12:39 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001093","Die Cast Part Shot","1","8.79","D06-Trim Damage","DCM A8 118","Plant A Storage",,,"$33.52","$33.52","Cav.A"
+"3/10/2026","12:39 PM","9-073-022-460","TRANSFER CASES",,"MLT8000908","Leak Test FG","9","99.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$398.38",
+"3/10/2026","12:40 PM","9-073-022-460","TRANSFER CASES",,"MLT8000908","Leak Test FG","1","11.00","M03-Handling Damage","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","12:40 PM","9-073-022-460","TRANSFER CASES",,"MLT8000908","Leak Test FG","1","11.00","O10 - Die Cast Test Part","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","12:41 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000810","Die Cast Part Shot","4","44.94","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$187.88","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","12:43 PM","9-050-010-485","MAG - BRACKETS",,"MLT8001037","Cell Assembly FG","1","3.33","M22-Targeting","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","12:44 PM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001096","Die Cast Part Shot","6","12.48","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$55.94",
+"3/10/2026","12:44 PM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001097","Die Cast Part Shot","2","4.57","D04-Crack","DCM B4 112","MAG030-C",,,"$9.62","$19.24",
+"3/10/2026","12:45 PM","9-073-022-463M","TRANSFER CASES",,"MLT8001098","Machining Pierce Part (1)","2","13.04","M01-Porosity","CNC Makino01 214","CNC Makino12 214",,,"$26.77","$53.54",
+"3/10/2026","12:45 PM","9-176-022-423","TRANSFER CASES",,"MLT8001099","Machining Pierce Part (Final)","1","8.61","M04-Non-Cleanup","CNC Makino16 214","CNC Makino16 214",,,"$44.84","$44.84",
+"3/10/2026","12:47 PM","9-176-022-424","TRANSFER CASES",,"MLT8000972","Leak Test FG","1","7.94","M12-Machining Sample","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","12:54 PM","5-084-001-431","COMP - STUDS",,"K580647148","Receive (each)","500","20.00","O04-Handling/Transportation Damage","KIRA 07 Assy","Kira 7&8 Assembly",,,"$0.16","$80.28",
+"3/10/2026","12:54 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7994798","Die Cast Part Shot","6","81.06","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$329.45","FO approved at machining."
+"3/10/2026","12:56 PM","9-072-022-421","TRANSFER CASES",,"MLT8001079","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04",
+"3/10/2026","12:57 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000810","Die Cast Part Shot","3","33.71","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$140.91","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","12:58 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001124","Die Cast Part Shot","1","13.38","D06-Trim Damage","DCM W3 122","DCM W3 122",,,"$54.18","$54.18",
+"3/10/2026","12:59 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001116","Die Cast Part Shot","1","8.79","D19-Broken Biscuit","DCM A8 118","High Street Yard",,,"$33.52","$33.52","Cav.A"
+"3/10/2026","12:59 PM","9-085-010-434","MAG - BRACKETS",,"MLT7998598","Die Cast Part Shot","1","0.41","D19-Broken Biscuit","DCM A8 118","Plant a Storage",,,"$2.58","$2.58","Cav.A"
+"3/10/2026","12:59 PM","9-085-010-435","MAG - BRACKETS",,"MLT8000638","Die Cast Part Shot","1","0.67","D19-Broken Biscuit","DCM A8 118","Plant a Storage",,,"$1.54","$1.54","Cav.A"
+"3/10/2026","12:59 PM","9-073-022-460","TRANSFER CASES",,"MLT8000908","Leak Test FG","1","11.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","12:59 PM","9-073-022-460","TRANSFER CASES",,"MLT8000908","Leak Test FG","1","11.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","1:00 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001048","Die Cast Part Shot (FG)","2","21.98","D01-Start-up Scrap","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$96.09",
+"3/10/2026","1:01 PM","9-032-020-501","STEERING COLUMN COMPONENTS",,"MLT8001102","Cell Assembly FG","1","1.63","M03-Handling Damage","MA ATS 222","Dock-SH-C32",,,"$19.16","$19.16",
+"3/10/2026","1:02 PM","9-073-022-461","TRANSFER CASES",,"MLT8001121","Leak Test FG","4","42.40","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$176.68",
+"3/10/2026","1:03 PM","9-073-022-461","TRANSFER CASES",,"MLT8001121","Leak Test FG","4","42.40","M18-Hole Size Out of Spec","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$176.68",
+"3/10/2026","1:04 PM","9-072-022-422","TRANSFER CASES",,"MLT8001107","Leak Test FG","4","14.16","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$103.82",
+"3/10/2026","1:04 PM","9-072-022-422","TRANSFER CASES",,"MLT8001107","Leak Test FG","1","3.54","M01-Porosity","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","1:10 PM","9-072-022-422","TRANSFER CASES",,"MLT8001107","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","1:14 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","3","20.43","D34-Porosity","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$125.41",
+"3/10/2026","1:14 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","1","6.81","M03-Handling Damage","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/10/2026","1:15 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","6","26.97","D01-Start-up Scrap","DCM W1 121","MA DRDX 204",,,"$18.06","$108.38","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:15 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","6","26.97","D01-Start-up Scrap","DCM W1 121","MA DRDX 204",,,"$18.06","$108.38","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:15 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","2","8.99","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$36.13","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:17 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:17 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","2","8.99","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$36.13","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:21 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:21 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:25 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:25 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:25 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:31 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:38 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:41 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:43 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:44 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:45 PM","9-086-016-470IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT7983199","Die Cast Part Shot","1","12.01","D04-Crack","DCM W4 122","Asm Honda 3BM IP",,,"$53.84","$53.84","released to be 100% gauged at assembly"
+"3/10/2026","1:46 PM","9-086-016-470","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001159","Cell Assembly (Final)","1","13.08","D04-Crack","Asm Honda 3BM IP","V Honda 3BM IP 470",,,"$98.70","$98.70",
+"3/10/2026","1:48 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:50 PM","9-073-022-460","TRANSFER CASES",,"MLT8001145","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/10/2026","1:50 PM","9-073-022-460","TRANSFER CASES",,"MLT8001145","Leak Test FG","2","22.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/10/2026","1:50 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","1:53 PM","9-072-010-497","MAG - BRACKETS",,"MLT8001161","Die Cast Part Shot","16","24.19","D01-Start-up Scrap","DCM B3 112","SL-U625 Display Brkt",,,"$7.07","$113.05","ABCD"
+"3/10/2026","1:55 PM","9-073-022-463M","TRANSFER CASES",,"MLT8001177","Machining Pierce Part (1)","14","91.28","M18-Hole Size Out of Spec","CNC Makino05 214","CNC Makino05 214",,,"$26.77","$374.77",
+"3/10/2026","1:57 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001180","Die Cast Part Shot (FG)","2","21.98","D01-Start-up Scrap","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$96.09",
+"3/10/2026","1:57 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001180","Die Cast Part Shot (FG)","3","32.97","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$144.13",
+"3/10/2026","2:02 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","2:04 PM","9-039-020-496W","STEERING COLUMN COMPONENTS",,"MLT7991879","Die Cast Part Shot","1","0.28","D07-Die Lube/Black Part","DCM B1 112","M Lower Brkt 496","8",,"$2.43","$2.43","1-8"
+"3/10/2026","2:04 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001191","Machining Pierce Part (Final)","43","11.50","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$160.05",
+"3/10/2026","2:04 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001194","Machining Pierce Part (Final)","1","0.27","M01-Porosity","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$3.72",
+"3/10/2026","2:04 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001195","Machining Pierce Part (Final)","1","0.27","D02-Incomplete Fill/Cold Shut/Cold Flow","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$3.72",
+"3/10/2026","2:09 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","2","13.62","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$83.61",
+"3/10/2026","2:09 PM","9-073-022-463W","TRANSFER CASES",,"MLT8001201","Die Cast Part Shot","4","26.08","D20-Broken Core","DCM A7 116","WIP Makino 3-4",,,"$22.14","$88.57","Cav 9"
+"3/10/2026","2:09 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","1","6.81","O14-Incomplete Operation","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/10/2026","2:12 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000290","Die Cast Part Shot","15","168.53","D04-Crack","MA WL LHD IP 252B","WL Components","F",,"$46.97","$704.54","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","2:17 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001122","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","2:20 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001180","Die Cast Part Shot (FG)","3","32.97","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$144.13",
+"3/10/2026","2:20 PM","9-073-022-463","TRANSFER CASES",,"MLT8001203","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","2:25 PM","9-073-022-463","TRANSFER CASES",,"MLT8001203","Leak Test FG","1","6.52","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","2:31 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","2:33 PM","9-073-022-463M","TRANSFER CASES",,"MLT8001228","Machining Pierce Part (1)","2","13.04","M06-Machine Alarm","CNC Makino05 214","CNC Makino05 214",,,"$26.77","$53.54",
+"3/10/2026","2:38 PM","9-081-015-464IP","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT7994832","Die Cast Part Shot","5","67.55","D04-Crack","DCM E2 120","KIRA 03",,,"$54.91","$274.54","FO approved at machining."
+"3/10/2026","2:38 PM","9-073-022-463","TRANSFER CASES",,"MLT8001238","Leak Test FG","1","6.52","M01-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$32.69",
+"3/10/2026","2:39 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001237","Machining Pierce Part (Final)","3","0.80","O08-Floor Gauge Rejection","M Lower Brkt 496","SL-Lower Rake Brkt",,,"$3.72","$11.17",
+"3/10/2026","2:40 PM","9-073-022-461M","TRANSFER CASES",,"MLT8001239","Machining Pierce Part (Final)","4","42.40","M18-Hole Size Out of Spec","CNC Makino09 214","CNC Makino09 214",,,"$41.10","$164.39",
+"3/10/2026","2:40 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001240","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","2:41 PM","9-072-022-422","TRANSFER CASES",,"MLT8001107","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","2:44 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","1","6.81","D34-Porosity","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/10/2026","2:45 PM","9-072-010-497","MAG - BRACKETS",,"MLT8001220","Die Cast Part Shot","8","12.10","D04-Crack","DCM B3 112","Zone 2",,,"$7.07","$56.52","ABCD"
+"3/10/2026","2:46 PM","9-073-022-461M","TRANSFER CASES",,"MLT8001254","Machining Pierce Part (Final)","32","339.20","M18-Hole Size Out of Spec","CNC Makino09 214","CNC Makino09 214",,,"$41.10","$1,315.09",
+"3/10/2026","2:46 PM","9-073-022-461M","TRANSFER CASES",,"MLT8001255","Machining Pierce Part (Final)","1","10.60","D06-Trim Damage","CNC Makino09 214","CNC Makino09 214",,,"$41.10","$41.10",
+"3/10/2026","2:47 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8000719","Die Cast Part Shot","2","17.58","D04-Crack","MA Mazak 240","MA Mazak 240",,,"$33.52","$67.04","Cav.A"
+"3/10/2026","2:47 PM","9-058-019-328","SEATS",,"MLT8001215","Machining Pierce Part (FG)","44","144.32","D04-Crack","M Corvette Seat 241","Dock-SH-C32",,,"$23.90","$1,051.50",
+"3/10/2026","2:49 PM","9-073-022-463M","TRANSFER CASES",,"MLT8001268","Machining Pierce Part (1)","1","6.52","M01-Porosity","CNC Makino05 214","CNC Makino05 214",,,"$26.77","$26.77",
+"3/10/2026","2:49 PM","9-072-022-421","TRANSFER CASES",,"MLT8001267","Machining Pierce Part (1)","4","27.76","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$146.09",
+"3/10/2026","2:50 PM","9-073-022-460","TRANSFER CASES",,"MLT8001145","Leak Test FG","1","11.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","2:52 PM","9-037-016-482","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001276","Vision System Inspection (FG)","1","11.24","D12-Bent/Warped","AV WL LHD IP 252","AV WL LHD IP 252",,,"$73.49","$73.49",
+"3/10/2026","2:53 PM","9-037-016-482","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001277","Vision System Inspection (FG)","1","11.24","D15-Sinks","AV WL LHD IP 252","AV WL LHD IP 252",,,"$73.49","$73.49",
+"3/10/2026","2:53 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001278","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/10/2026","2:54 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","2","13.62","O14-Incomplete Operation","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$83.61",
+"3/10/2026","2:54 PM","9-072-022-421","TRANSFER CASES",,"MLT8001135","Cell Assembly FG","1","6.81","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$41.80",
+"3/10/2026","3:00 PM","9-083-015-347IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001293","Die Cast Part Shot","7","109.06","D01-Start-up Scrap","DCM W4 122","V Honda Pilot IP 347",,,"$55.35","$387.46","G"
+"3/10/2026","3:04 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001303","Die Cast Part Shot","2","17.58","D06-Trim Damage","DCM A8 118","MA Mazak 240",,,"$33.52","$67.04","Cav.A"
+"3/10/2026","3:04 PM","9-085-010-434","MAG - BRACKETS",,"MLT8001304","Die Cast Part Shot","2","0.82","D06-Trim Damage","DCM A8 118","MA Mazak 240",,,"$2.58","$5.16","Cav.A"
+"3/10/2026","3:04 PM","9-085-010-435","MAG - BRACKETS",,"MLT8001305","Die Cast Part Shot","2","1.34","D06-Trim Damage","DCM A8 118","Plant a Storage",,,"$1.54","$3.07","Cav.A"
+"3/10/2026","3:05 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001306","Die Cast Part Shot","8","83.80","D01-Start-up Scrap","DCM A2 116","WIP makino 11-13",,,"$37.01","$296.04","8"
+"3/10/2026","3:12 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001278","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$37.01","cav 10"
+"3/10/2026","3:30 PM","9-072-010-497","MAG - BRACKETS",,"MLT8001317","Die Cast Part Shot","8","12.10","D04-Crack","DCM B3 112","SL-U625 Display Brkt",,,"$7.07","$56.52","ABCD"
+"3/10/2026","3:31 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001318","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/10/2026","3:36 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001303","Die Cast Part Shot","1","8.79","D06-Trim Damage","DCM A8 118","MA Mazak 240",,,"$33.52","$33.52","Cav.A"
+"3/10/2026","3:37 PM","9-073-022-460W","TRANSFER CASES",,"MLT8001169","Die Cast Part Shot","3","32.48","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$115.17","cav 3"
+"3/10/2026","3:42 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001318","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/10/2026","3:44 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001318","Die Cast Part Shot (FG)","1","10.99","D06-Trim Damage","DCM E1 120","JL CNC Cast WIP",,,"$48.04","$48.04",
+"3/10/2026","3:48 PM","9-072-022-421W","TRANSFER CASES",,"MLT8001329","Die Cast Part Shot","4","30.10","D01-Start-up Scrap","DCM A3 116","QUARANTINE 545",,,"$31.29","$125.17","6"
+"3/10/2026","3:49 PM","9-072-022-421W","TRANSFER CASES",,"MLT8001329","Die Cast Part Shot","12","90.31","D07-Die Lube/Black Part","DCM A3 116","QUARANTINE 545",,,"$31.29","$375.50","6"
+"3/10/2026","3:50 PM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001333","Die Cast Part Shot","4","8.32","D04-Crack","DCM B4 112","MAG030-C",,,"$9.32","$37.30",
+"3/10/2026","3:55 PM","9-034-010-426","MAG - BRACKETS",,"MLT8001348","Cell Assembly FG","3","0.44","O14-Incomplete Operation","MA JL Tunnel Brkt - 426","MA JL Tunnel Brkt - 426",,,"$3.62","$10.85",
+"3/10/2026","3:56 PM","9-034-010-425","MAG - BRACKETS",,"MLT8001349","Cell Assembly FG","4","0.60","M12-Machining Sample","MA JL Tunnel Brkt - 425","MA JL Tunnel Brkt - 425",,,"$3.65","$14.59",
+"3/10/2026","3:56 PM","9-034-010-426","MAG - BRACKETS",,"MLT8001350","Cell Assembly FG","4","0.58","M12-Machining Sample","MA JL Tunnel Brkt - 426","MA JL Tunnel Brkt - 426",,,"$3.62","$14.46",
+"3/10/2026","3:56 PM","9-050-010-485","MAG - BRACKETS",,"MLT8001316","Cell Assembly FG","1","3.33","M22-Targeting","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","3:56 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001336","Die Cast Part Shot","2","7.95","D01-Start-up Scrap","DCM A5 116","Plant C Storage",,,"$16.89","$33.78","7"
+"3/10/2026","3:56 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001039","Die Cast Part Shot","2","7.95","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$33.78","Mar 10 - Sorted for broken core G Heat shield mounting hole."
+"3/10/2026","4:19 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001328","Die Cast Part Shot","2","8.99","D04-Crack","DCM W1 121","DCM W1 121",,,"$18.06","$36.13","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","4:19 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001330","Die Cast Part Shot","1","11.24","D01-Start-up Scrap","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","4:28 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001328","Die Cast Part Shot","6","26.97","D04-Crack","DCM W1 121","DCM W1 121",,,"$18.06","$108.38","AWAITING FIRST OFF APPROVAL"
+"3/10/2026","4:47 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001393","Machining Pierce Part (Final)","4","1.07","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$14.89",
+"3/10/2026","4:54 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001402","Die Cast Part Shot","3","40.13","D01-Start-up Scrap","DCM W3 122","KIRA 08",,,"$54.18","$162.54","new machining F/O required for this run"
+"3/10/2026","4:56 PM","9-072-022-421","TRANSFER CASES",,"MLT8001345","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino18 215","CD6 Parts Conveyor",,,"$36.52","$73.04","chip conveyor"
+"3/10/2026","4:57 PM","9-073-022-460W","TRANSFER CASES",,"MLT8001407","Die Cast Part Shot","3","32.48","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$115.17","cav 3"
+"3/10/2026","5:10 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001413","Die Cast Part Shot","3","13.49","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$54.19","33"
+"3/10/2026","5:10 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001414","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","34"
+"3/10/2026","5:15 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001420","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","5:17 PM","9-058-019-328","SEATS",,"MLT7975684","Die Cast Part Shot","1","3.28","D04-Crack","M Corvette Seat 241","M Corvette Seat 241",,,"$21.89","$21.89","C"
+"3/10/2026","5:39 PM","9-073-022-460W","TRANSFER CASES",,"MLT8001446","Die Cast Part Shot","2","21.65","D07-Die Lube/Black Part","DCM A1 116","WIP makino 11-13",,,"$38.39","$76.78","cav 3"
+"3/10/2026","5:41 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001447","Die Cast Part Shot","3","31.43","D01-Start-up Scrap","DCM A2 116","WIP makino 11-13",,,"$37.01","$111.02","8"
+"3/10/2026","5:42 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001447","Die Cast Part Shot","3","31.43","D02-Incomplete Fill/Cold Shut/Cold Flow","DCM A2 116","WIP makino 11-13",,,"$37.01","$111.02","8"
+"3/10/2026","5:42 PM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001449","Die Cast Part Shot","1","2.29","D06-Trim Damage","DCM B4 112","MAG030-C",,,"$9.62","$9.62",
+"3/10/2026","5:47 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001457","Die Cast Part Shot","2","8.99","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$36.13","33"
+"3/10/2026","5:47 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001458","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","34"
+"3/10/2026","5:53 PM","9-072-022-421","TRANSFER CASES",,"MLT8001344","Machining Pierce Part (1)","7","48.59","M01-Porosity","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$255.65",
+"3/10/2026","5:53 PM","9-072-022-421","TRANSFER CASES",,"MLT8001344","Machining Pierce Part (1)","1","6.94","M04-Non-Cleanup","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$36.52",
+"3/10/2026","5:53 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001467","Safe Launch","1","9.40","D04-Crack","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","5:54 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001468","Vision System Inspection (FG)","1","13.38","D12-Bent/Warped","V Honda Odyssey IP 371","V Honda Odyssey IP 371",,,"$96.17","$96.17",
+"3/10/2026","5:54 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001467","Safe Launch","1","9.40","D06-Trim Damage","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","5:54 PM","9-072-022-421","TRANSFER CASES",,"MLT8001267","Machining Pierce Part (1)","4","27.76","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$146.09","ATC arm fault"
+"3/10/2026","5:54 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001467","Safe Launch","1","9.40","D02-Incomplete Fill/Cold Shut/Cold Flow","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","5:54 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/10/2026","5:54 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","9","99.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$398.38",
+"3/10/2026","5:55 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","1","11.00","O10 - Die Cast Test Part","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","5:55 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","1","11.00","D18-Breakout","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","5:58 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","1","11.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","6:00 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001476","Die Cast Part Shot","3","26.37","D06-Trim Damage","DCM A8 118","MA Mazak 240",,,"$33.52","$100.56","Cav.A"
+"3/10/2026","6:00 PM","9-073-022-460W","TRANSFER CASES",,"MLT8001446","Die Cast Part Shot","1","10.83","D06-Trim Damage","DCM A1 116","WIP makino 11-13",,,"$38.39","$38.39","cav 3"
+"3/10/2026","6:11 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001487","Machining Pierce Part (Final)","2","0.54","D07-Die Lube/Black Part","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$7.44",
+"3/10/2026","6:11 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001489","Machining Pierce Part (Final)","3","0.80","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$11.17",
+"3/10/2026","6:24 PM","9-176-022-424W","TRANSFER CASES",,"MLT8001464","Die Cast Part Shot","1","7.92","D06-Trim Damage","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","6:24 PM","9-176-022-424W","TRANSFER CASES",,"MLT8001464","Die Cast Part Shot","1","7.92","D41-Etched Barcode","DCM B7 112","Plant C Storage",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","6:31 PM","9-073-022-461M","TRANSFER CASES",,"MLT8001507","Machining Pierce Part (Final)","1","10.60","M06-Machine Alarm","CNC Makino13 214","CNC Makino13 214",,,"$41.10","$41.10",
+"3/10/2026","6:31 PM","9-073-022-460M","TRANSFER CASES",,"MLT8001508","Machining Pierce Part (Final)","1","11.00","M06-Machine Alarm","CNC Makino11 214","CNC Makino11 214",,,"$42.94","$42.94",
+"3/10/2026","6:35 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001515","Die Cast Part Shot","1","13.38","D02-Incomplete Fill/Cold Shut/Cold Flow","DCM W3 122","KIRA 08",,,"$54.18","$54.18","new machining F/O required for this run"
+"3/10/2026","6:40 PM","9-034-016-498W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001520","Die Cast Part Shot (FG)","3","32.97","D06-Trim Damage","DCM E1 120","KIRA 10",,,"$48.04","$144.13",
+"3/10/2026","6:41 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999648","Cell Assembly FG","2","8.99","M04-Non-Cleanup","MA DRDX 204","Dock-SH-C32",,,"$23.52","$47.04",
+"3/10/2026","6:52 PM","9-032-010-147","MAG - BRACKETS",,"MLT7999648","Cell Assembly FG","3","13.49","D34-Porosity","MA DRDX 204","Dock-SH-C32",,,"$23.52","$70.55",
+"3/10/2026","6:54 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001535","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","6:55 PM","9-176-022-423","TRANSFER CASES",,"MLT8001479","Machining Pierce Part (Final)","1","8.61","D34-Porosity","CNC Makino16 214","LT-CD6 Transit Case 215",,,"$44.84","$44.84",
+"3/10/2026","6:56 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","2","22.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/10/2026","6:56 PM","9-073-022-460","TRANSFER CASES",,"MLT8001439","Leak Test FG","1","11.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","7:00 PM","9-176-022-424W","TRANSFER CASES",,"MLT8001517","Die Cast Part Shot","3","23.75","D06-Trim Damage","DCM B7 112","CNC Makino26B 215",,,"$36.70","$110.11","FO APPROVED"
+"3/10/2026","7:01 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001544","Die Cast Part Shot","6","62.85","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$222.03","cav 10"
+"3/10/2026","7:03 PM","9-072-022-422","TRANSFER CASES",,"MLT8001548","Leak Test FG","2","7.08","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/10/2026","7:03 PM","9-072-022-422","TRANSFER CASES",,"MLT8001548","Leak Test FG","2","7.08","O10 - Die Cast Test Part","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/10/2026","7:04 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001554","Machining Pierce Part (1)","11","120.89","M23-Hole out of Position","KIRA 09","KIRA 09",,,"$54.40","$598.38",
+"3/10/2026","7:07 PM","9-072-022-421","TRANSFER CASES",,"MLT8001469","Machining Pierce Part (1)","7","48.59","M01-Porosity","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$255.65",
+"3/10/2026","7:08 PM","9-072-022-421","TRANSFER CASES",,"MLT8001471","Machining Pierce Part (1)","2","13.88","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$73.04","ATC arm fault"
+"3/10/2026","7:10 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001566","Safe Launch","1","9.40","D18-Breakout","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","7:26 PM","9-058-019-328","SEATS",,"MLT7974476","Die Cast Part Shot","1","3.28","D04-Crack","M Corvette Seat 241","M Corvette Seat 241",,,"$21.89","$21.89","C"
+"3/10/2026","7:26 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001535","Die Cast Part Shot","1","11.24","D19-Broken Biscuit","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","7:30 PM","9-073-022-463W","TRANSFER CASES",,"MLT8001581","Die Cast Part Shot","4","26.08","D01-Start-up Scrap","DCM A7 116","WIP Makino 3-4",,,"$22.14","$88.57","Cav 9"
+"3/10/2026","7:30 PM","9-073-022-463W","TRANSFER CASES",,"MLT8001582","Die Cast Part Shot","4","26.08","D01-Start-up Scrap","DCM A7 116","WIP Makino 1-2",,,"$22.14","$88.57","Cav 10"
+"3/10/2026","7:38 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001595","Safe Launch","3","28.20","D15-Sinks","SL-CX727 IP 253","KIRA 05",,,"$42.04","$126.13",
+"3/10/2026","7:38 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001595","Safe Launch","1","9.40","D04-Crack","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","7:46 PM","9-073-022-460M","TRANSFER CASES",,"MLT8001586","Machining Pierce Part (Final)","2","22.00","M06-Machine Alarm","CNC Makino11 214","Plant B Makino Conveyor",,,"$42.94","$85.89",
+"3/10/2026","7:58 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001558","Machining Pierce Part (1)","1","10.99","D18-Breakout","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$54.40",
+"3/10/2026","7:58 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001558","Machining Pierce Part (1)","1","10.99","D04-Crack","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$54.40",
+"3/10/2026","7:59 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001629","Cell Assembly FG","1","10.99","D04-Crack","JL IP Assy 242","JL IP Assy 242",,,"$67.27","$67.27",
+"3/10/2026","8:03 PM","9-072-022-422","TRANSFER CASES",,"MLT8001596","Leak Test FG","2","7.08","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/10/2026","8:07 PM","9-072-022-421W","TRANSFER CASES",,"MLT8001329","Die Cast Part Shot","14","105.36","D04-Crack","DCM A3 116","QUARANTINE 545",,,"$31.29","$438.09","6"
+"3/10/2026","8:10 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001650","Safe Launch","1","9.40","D04-Crack","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","8:10 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001650","Safe Launch","1","9.40","D02-Incomplete Fill/Cold Shut/Cold Flow","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","8:12 PM","9-073-022-460","TRANSFER CASES",,"MLT8001640","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/10/2026","8:12 PM","9-073-022-460","TRANSFER CASES",,"MLT8001640","Leak Test FG","4","44.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$177.06",
+"3/10/2026","8:19 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001240","Die Cast Part Shot","3","13.49","D04-Crack","MA DRDX 204","MA DRDX 204",,,"$18.06","$54.19","FO approved"
+"3/10/2026","8:20 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001123","Die Cast Part Shot","1","4.50","D04-Crack","MA DRDX 204","MA DRDX 204",,,"$18.06","$18.06","FO approved"
+"3/10/2026","8:29 PM","9-032-010-147","MAG - BRACKETS",,"MLT8001670","Cell Assembly FG","1","4.50","D34-Porosity","MA DRDX 204","MA DRDX 204",,,"$23.52","$23.52",
+"3/10/2026","8:29 PM","9-032-020-501","STEERING COLUMN COMPONENTS",,"MLT8001669","Machining Pierce Part (Final)","1","1.63","O01-Overgrinding","CNC Makino28 215","MA ATS 222",,,"$15.56","$15.56",
+"3/10/2026","8:33 PM","9-176-022-424W","TRANSFER CASES",,"MLT8001676","Die Cast Part Shot","1","7.92","D41-Etched Barcode","DCM B7 112","CNC Makino26B 215",,,"$36.70","$36.70","FO APPROVED"
+"3/10/2026","8:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8001663","Leak Test FG","10","106.00","D04-Crack","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$441.70",
+"3/10/2026","8:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8001663","Leak Test FG","3","31.80","D25-Leaker","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$132.51",
+"3/10/2026","8:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8001663","Leak Test FG","2","21.20","O10 - Die Cast Test Part","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$88.34",
+"3/10/2026","8:36 PM","9-073-022-461","TRANSFER CASES",,"MLT8001663","Leak Test FG","1","10.60","M03-Handling Damage","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","8:57 PM","9-050-010-485W","MAG - BRACKETS",,"MLT7998909","Die Cast Part Shot","5","16.63","D15-Sinks","AV T1XX BRKT 248","AV T1XX BRKT 248","4",,"$18.36","$91.78",
+"3/10/2026","8:57 PM","9-058-019-328","SEATS",,"MLT7974562","Die Cast Part Shot","2","6.56","D04-Crack","M Corvette Seat 241","M Corvette Seat 241",,,"$21.89","$43.77","C"
+"3/10/2026","9:01 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001649","Machining Pierce Part (1)","3","32.97","D04-Crack","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$163.19",
+"3/10/2026","9:01 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001710","Cell Assembly FG","2","21.98","D04-Crack","JL IP Assy 242","Dock-SH-C32",,,"$67.27","$134.55",
+"3/10/2026","9:02 PM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001690","Die Cast Part Shot","1","2.08","D06-Trim Damage","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","9:02 PM","8-072-017-440W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001689","Die Cast Part Shot","1","2.29","D06-Trim Damage","DCM B4 112","MAG030-C",,,"$9.62","$9.62",
+"3/10/2026","9:02 PM","9-072-022-422","TRANSFER CASES",,"MLT8001596","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","9:03 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001715","Die Cast Part Shot","1","13.38","D26-Stuck Casting","DCM W3 122","Honda Odyssey DC WIP",,,"$54.18","$54.18","new machining F/O required for this run"
+"3/10/2026","9:11 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001723","Die Cast Part Shot","3","31.43","D01-Start-up Scrap","DCM A2 116","WIP makino 11-13",,,"$37.01","$111.02","8"
+"3/10/2026","9:11 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001723","Die Cast Part Shot","2","20.95","D16-Biscuit Size","DCM A2 116","WIP makino 11-13",,,"$37.01","$74.01","8"
+"3/10/2026","9:28 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001738","Safe Launch","5","47.00","D04-Crack","SL-CX727 IP 253","KIRA 05",,,"$42.04","$210.21",
+"3/10/2026","9:38 PM","9-032-010-147","MAG - BRACKETS",,"MLT8001744","Cell Assembly FG","2","8.99","M18-Hole Size Out of Spec","MA DRDX 204","MA DRDX 204",,,"$23.52","$47.04",
+"3/10/2026","9:42 PM","9-050-010-485","MAG - BRACKETS",,"MLT8001739","Cell Assembly FG","1","3.33","M13-Mis-Load","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","9:42 PM","9-050-010-485","MAG - BRACKETS",,"MLT8001739","Cell Assembly FG","1","3.33","M22-Targeting","AV T1XX BRKT 248","Dock-SH-C32",,,"$27.99","$27.99",
+"3/10/2026","9:44 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001666","Die Cast Part Shot","1","11.24","D04-Crack","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","9:45 PM","9-032-020-501","STEERING COLUMN COMPONENTS",,"MLT8001669","Machining Pierce Part (Final)","1","1.63","O01-Overgrinding","CNC Makino28 215","MA ATS 222",,,"$15.56","$15.56",
+"3/10/2026","9:45 PM","9-032-020-501","STEERING COLUMN COMPONENTS",,"MLT8001749","Machining Pierce Part (Final)","1","1.63","O01-Overgrinding","CNC Makino27A 215","MA ATS 222",,,"$15.56","$15.56",
+"3/10/2026","9:48 PM","9-032-010-147","MAG - BRACKETS",,"MLT8001754","Cell Assembly FG","3","22.48","M18-Hole Size Out of Spec","MA DRDX 204","MA DRDX 204",,,"$23.52","$70.55",
+"3/10/2026","9:52 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001732","Machining Pierce Part (1)","1","10.99","D04-Crack","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$54.40",
+"3/10/2026","9:52 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001732","Machining Pierce Part (1)","1","10.99","D18-Breakout","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$54.40",
+"3/10/2026","9:54 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001760","Die Cast Part Shot","1","4.50","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$18.06","33"
+"3/10/2026","9:54 PM","9-032-010-147W","MAG - BRACKETS",,"MLT8001761","Die Cast Part Shot","2","8.99","D04-Crack","DCM W1 121","MA DRDX 204",,,"$18.06","$36.13","34"
+"3/10/2026","9:54 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001755","Cell Assembly FG","2","21.98","D18-Breakout","JL IP Assy 242","Dock-SH-C32",,,"$67.27","$134.55",
+"3/10/2026","9:56 PM","9-073-022-460","TRANSFER CASES",,"MLT8001640","Leak Test FG","3","33.00","D34-Porosity","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$132.79",
+"3/10/2026","9:56 PM","9-073-022-460","TRANSFER CASES",,"MLT8001640","Leak Test FG","1","11.00","D04-Crack","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","9:56 PM","9-073-022-460","TRANSFER CASES",,"MLT8001640","Leak Test FG","5","55.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$221.32",
+"3/10/2026","9:58 PM","9-072-022-421","TRANSFER CASES",,"MLT8001618","Machining Pierce Part (1)","1","6.94","M01-Porosity","CNC Makino19 215","CD6 Parts Conveyor",,,"$36.52","$36.52",
+"3/10/2026","9:58 PM","9-072-022-421","TRANSFER CASES",,"MLT8001619","Machining Pierce Part (1)","1","6.94","M01-Porosity","CNC Makino18 215","CD6 Parts Conveyor",,,"$36.52","$36.52",
+"3/10/2026","9:58 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001769","Safe Launch","2","18.80","D04-Crack","SL-CX727 IP 253","KIRA 05",,,"$42.04","$84.08",
+"3/10/2026","9:58 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001769","Safe Launch","1","9.40","D15-Sinks","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","10:02 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001782","Die Cast Part Shot","1","11.24","D06-Trim Damage","DCM A9 118","WL Components",,,"$46.97","$46.97","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","10:03 PM","9-072-022-421W","TRANSFER CASES",,"MLT8001329","Die Cast Part Shot","4","30.10","D04-Crack","DCM A3 116","QUARANTINE 545",,,"$31.29","$125.17","6"
+"3/10/2026","10:07 PM","9-072-022-422","TRANSFER CASES",,"MLT8001789","Leak Test FG","8","28.32","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$207.65",
+"3/10/2026","10:20 PM","9-073-022-461M","TRANSFER CASES",,"MLT8001795","Machining Pierce Part (Final)","10","106.00","O07-CMM Rejection","CNC Makino09 214","CNC Makino09 214",,,"$41.10","$410.97",
+"3/10/2026","10:21 PM","9-073-022-460W","TRANSFER CASES",,"MLT8001798","Die Cast Part Shot","3","32.48","D01-Start-up Scrap","DCM A1 116","WIP makino 11-13",,,"$38.39","$115.17","cav 3"
+"3/10/2026","10:25 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001804","Machining Pierce Part (1)","1","10.99","D04-Crack","KIRA 10","KIRA 10",,,"$54.40","$54.40",
+"3/10/2026","10:28 PM","9-073-022-461","TRANSFER CASES",,"MLT8001800","Leak Test FG","1","10.60","O10 - Die Cast Test Part","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","10:28 PM","9-073-022-461","TRANSFER CASES",,"MLT8001800","Leak Test FG","1","10.60","D35-Barcode Label","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","10:28 PM","9-073-022-461","TRANSFER CASES",,"MLT8001800","Leak Test FG","1","10.60","D04-Crack","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","10:36 PM","9-176-022-424W","TRANSFER CASES",,"MLT8001676","Die Cast Part Shot","3","23.75","D01-Start-up Scrap","DCM B7 112","CNC Makino26B 215",,,"$36.70","$110.11","FO APPROVED"
+"3/10/2026","10:36 PM","9-073-022-463","TRANSFER CASES",,"MLT8001796","Leak Test FG","7","45.64","D34-Porosity","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$228.81",
+"3/10/2026","10:36 PM","9-073-022-463","TRANSFER CASES",,"MLT8001796","Leak Test FG","7","45.64","M03-Handling Damage","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$228.81",
+"3/10/2026","10:36 PM","9-073-022-463","TRANSFER CASES",,"MLT8001796","Leak Test FG","3","19.56","D25-Leaker","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$98.06",
+"3/10/2026","10:36 PM","9-073-022-463","TRANSFER CASES",,"MLT8001796","Leak Test FG","2","13.04","O10 - Die Cast Test Part","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$65.37",
+"3/10/2026","10:43 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001827","Machining Pierce Part (Final)","4","1.07","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$14.89",
+"3/10/2026","10:43 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001828","Machining Pierce Part (Final)","3","0.80","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$11.17",
+"3/10/2026","10:44 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001829","Machining Pierce Part (Final)","2","0.54","O07-CMM Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$7.44",
+"3/10/2026","10:44 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001830","Machining Pierce Part (Final)","6","1.61","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$22.33",
+"3/10/2026","10:44 PM","9-039-020-496","STEERING COLUMN COMPONENTS",,"MLT8001832","Machining Pierce Part (Final)","8","2.14","O08-Floor Gauge Rejection","M Lower Brkt 496","M Lower Brkt 496",,,"$3.72","$29.78",
+"3/10/2026","10:45 PM","9-072-022-421","TRANSFER CASES",,"MLT8001833","Cell Assembly FG","6","40.86","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$250.83",
+"3/10/2026","10:45 PM","9-072-022-421","TRANSFER CASES",,"MLT8001833","Cell Assembly FG","2","13.62","O10 - Die Cast Test Part","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$83.61",
+"3/10/2026","10:46 PM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001690","Die Cast Part Shot","1","2.08","D06-Trim Damage","DCM B4 112","MAG030-C",,,"$9.32","$9.32","Sorted"
+"3/10/2026","10:46 PM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001690","Die Cast Part Shot","1","2.08","D28-Bent or Broken Punch","DCM B4 112","MAG030-C",,,"$9.32","$9.32","Sorted"
+"3/10/2026","10:47 PM","9-072-022-422","TRANSFER CASES",,"MLT8001843","Leak Test FG","2","7.08","O10 - Die Cast Test Part","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$51.91",
+"3/10/2026","10:47 PM","9-176-022-424","TRANSFER CASES",,"MLT8001573","Leak Test FG","1","7.94","O10 - Die Cast Test Part","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$49.99",
+"3/10/2026","10:47 PM","9-072-022-422","TRANSFER CASES",,"MLT8001843","Leak Test FG","1","3.54","D25-Leaker","LT-CD6 Explorer Cover 215","Dock-SH-C32",,,"$25.96","$25.96",
+"3/10/2026","10:47 PM","9-176-022-424","TRANSFER CASES",,"MLT8001573","Leak Test FG","2","15.88","D25-Leaker","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$99.98",
+"3/10/2026","10:47 PM","9-176-022-424","TRANSFER CASES",,"MLT8001573","Leak Test FG","3","23.82","D34-Porosity","LT-CD6 Transit Cover 215","Dock-SH-C32",,,"$49.99","$149.98",
+"3/10/2026","10:47 PM","9-072-022-421","TRANSFER CASES",,"MLT8001833","Cell Assembly FG","7","47.67","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$292.63",
+"3/10/2026","10:48 PM","9-176-022-423","TRANSFER CASES",,"MLT8001716","Leak Test FG","1","8.61","M18-Hole Size Out of Spec","LT-CD6 Transit Case 215","Zone 2",,,"$47.19","$47.19",
+"3/10/2026","10:48 PM","9-176-022-423","TRANSFER CASES",,"MLT8001716","Leak Test FG","4","34.44","D34-Porosity","LT-CD6 Transit Case 215","Zone 2",,,"$47.19","$188.75",
+"3/10/2026","10:48 PM","9-176-022-423","TRANSFER CASES",,"MLT8001716","Leak Test FG","3","25.83","D25-Leaker","LT-CD6 Transit Case 215","Zone 2",,,"$47.19","$141.56",
+"3/10/2026","10:48 PM","9-072-022-421","TRANSFER CASES",,"MLT8001772","Machining Pierce Part (1)","4","27.76","M06-Machine Alarm","CNC Makino17 215","CD6 Parts Conveyor",,,"$36.52","$146.09",
+"3/10/2026","10:51 PM","9-073-022-463","TRANSFER CASES",,"MLT8001796","Leak Test FG","2","13.04","D25-Leaker","LT-P702 Cover 214","Dock-SH-C32",,,"$32.69","$65.37",
+"3/10/2026","10:51 PM","9-073-022-461","TRANSFER CASES",,"MLT8001841","Leak Test FG","1","10.60","O10 - Die Cast Test Part","LT-P702 Case 214","Dock-SH-C32",,,"$44.17","$44.17",
+"3/10/2026","10:52 PM","9-073-022-460","TRANSFER CASES",,"MLT8001818","Leak Test FG","2","22.00","D25-Leaker","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$88.53",
+"3/10/2026","10:52 PM","9-073-022-460","TRANSFER CASES",,"MLT8001818","Leak Test FG","1","11.00","M03-Handling Damage","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","10:52 PM","9-073-022-460","TRANSFER CASES",,"MLT8001818","Leak Test FG","1","11.00","O10 - Die Cast Test Part","Leaktester Case 214","Dock-SH-C32",,,"$44.26","$44.26",
+"3/10/2026","10:52 PM","9-072-022-421","TRANSFER CASES",,"MLT8001833","Cell Assembly FG","4","27.24","D25-Leaker","LT-CD6 Explorer Case 215","Dock-SH-C32",,,"$41.80","$167.22",
+"3/10/2026","10:54 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001777","Machining Pierce Part (1)","1","10.99","D06-Trim Damage","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$54.40",
+"3/10/2026","10:54 PM","9-034-016-498","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001777","Machining Pierce Part (1)","1","10.99","D18-Breakout","JL IP Assy 242","JL IP Assy 242",,,"$54.40","$54.40",
+"3/10/2026","10:58 PM","9-084-016-371","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001863","Machining Pierce Part (Final)","7","93.63","M06-Machine Alarm","KIRA 08","KIRA 08",,,"$64.12","$448.86",
+"3/10/2026","10:59 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001806","Die Cast Part Shot","9","94.28","D04-Crack","DCM W2 121","WIP Makino 14-15",,,"$37.01","$333.05","cav 10"
+"3/10/2026","11:19 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001836","Die Cast Part Shot","4","15.90","D01-Start-up Scrap","DCM A5 116","Trailer Dock C26",,,"$16.89","$67.57","7"
+"3/10/2026","11:19 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001837","Die Cast Part Shot","4","15.90","D01-Start-up Scrap","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$67.57","8"
+"3/10/2026","11:20 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001836","Die Cast Part Shot","2","7.95","D19-Broken Biscuit","DCM A5 116","Trailer Dock C26",,,"$16.89","$33.78","7"
+"3/10/2026","11:20 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001837","Die Cast Part Shot","2","7.95","D19-Broken Biscuit","DCM A5 116","CD6 Exp Cover Wip",,,"$16.89","$33.78","8"
+"3/10/2026","11:20 PM","9-072-022-422W","TRANSFER CASES",,"MLT8001836","Die Cast Part Shot","3","11.92","D15-Sinks","DCM A5 116","Trailer Dock C26",,,"$16.89","$50.68","7"
+"3/10/2026","11:24 PM","9-073-022-463W","TRANSFER CASES",,"MLT8001883","Die Cast Part Shot","4","26.08","D01-Start-up Scrap","DCM A7 116","WIP Makino 1-2",,,"$22.14","$88.57","Cav 10"
+"3/10/2026","11:27 PM","9-078-016-478W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001888","Safe Launch","1","9.40","D04-Crack","SL-CX727 IP 253","KIRA 05",,,"$42.04","$42.04",
+"3/10/2026","11:30 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001891","Die Cast Part Shot","2","20.95","D01-Start-up Scrap","DCM W2 121","WIP Makino 14-15",,,"$37.01","$74.01","cav 10"
+"3/10/2026","11:30 PM","9-037-016-482W","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001782","Die Cast Part Shot","3","33.71","D06-Trim Damage","DCM A9 118","WL Components",,,"$46.97","$140.91","Cav F - Mar 6 FO APPROVED"
+"3/10/2026","11:34 PM","9-085-016-433IP","MAG - FULL INSTRUMENT PANELS &lt; 15 LBS",,"MLT8001894","Die Cast Part Shot","5","43.95","D06-Trim Damage","DCM A8 118","MA Mazak 240",,,"$33.52","$167.60","Cav.A"
+"3/10/2026","11:35 PM","9-084-016-371W","MAG - FULL INSTRUMENT PANELS > 15 LBS",,"MLT8001896","Die Cast Part Shot","3","40.13","D01-Start-up Scrap","DCM W3 122","KIRA 08",,,"$54.18","$162.54","new machining F/O required for this run"
+"3/10/2026","11:36 PM","9-072-022-421W","TRANSFER CASES",,"MLT8001895","Die Cast Part Shot","5","37.63","D20-Broken Core","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$156.46","CAV 7"
+"3/10/2026","11:36 PM","9-072-022-421W","TRANSFER CASES",,"MLT8001895","Die Cast Part Shot","7","52.68","D01-Start-up Scrap","DCM A4 116","CD6 Exp Case Wip",,,"$31.29","$219.04","CAV 7"
+"3/10/2026","11:41 PM","9-073-022-460W","TRANSFER CASES",,"MLT8001902","Die Cast Part Shot","1","10.83","D06-Trim Damage","DCM A1 116","WIP makino 11-13",,,"$38.39","$38.39","cav 3"
+"3/10/2026","11:48 PM","8-072-017-439W","MAG - MRS/FOD/FEC/BOLSTERS",,"MLT8001867","Die Cast Part Shot","1","2.08","D06-Trim Damage","DCM B4 112","MAG030-C",,,"$9.32","$9.32",
+"3/10/2026","11:48 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001908","Die Cast Part Shot","2","31.43","D04-Crack","DCM A2 116","WIP makino 11-13",,,"$37.01","$74.01","8"
+"3/10/2026","11:50 PM","9-073-022-461W","TRANSFER CASES",,"MLT8001908","Die Cast Part Shot","1","10.48","D01-Start-up Scrap","DCM A2 116","WIP makino 11-13",,,"$37.01","$37.01","8"

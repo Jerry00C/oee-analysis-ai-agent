@@ -1,0 +1,23 @@
+create table if not exists scrap-by-log(
+    id bigint primary key auto_increment,
+    report_date date,
+    created_at timestamptz not null default now(),
+
+    time_scrapped time,
+    part_no varchar(255),
+    part_type varchar(255),
+    material varchar(255),
+    serial_no varchar(255),
+    operation varchar(255),
+    quantity int,
+    weight float,
+    scrap_reason varchar(255),
+    workcenter varchar(255),
+    location varchar(255),
+
+    cavity_code varchar(255),
+    coordinate varchar(255),
+    unit_cost float,
+    extended_cost float,
+    note text,
+)
