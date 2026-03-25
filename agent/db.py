@@ -26,8 +26,3 @@ def query_supabase(sql_query, params=None):
     df = pd.read_sql_query(sql_query, conn, params=params)
     conn.close()
     return df
-
-
-
-def fjeiow():
-    print("fjeiowfejiwofjwoiefjwoiejf")
