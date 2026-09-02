@@ -1,3 +1,4 @@
+Since it is a company project, only example of data analysis tool and flow is shown here
 # OEE Analysis AI Agent
 
 This project is a small Python business-intelligence agent for manufacturing data. It combines:
